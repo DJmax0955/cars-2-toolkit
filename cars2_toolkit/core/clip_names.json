@@ -1,0 +1,11 @@
+{
+  "_about": "Cars 3 -> Cars 2 clip names, used by Convert Cars 3 Clips / Import Cars 3 Clip (option 'Use Cars 2 names'). 'names': whole Cars 3 clip names -> Cars 2 names (checked first). 'classes': Cars 2 class -> the Cars 3 characters of that class; a clip starting with the character's name gets the class name instead (mack_quickstart_l02 -> truck_quickstart_l02). 'prefixes': the start of a Cars 3 name -> the Cars 2 start. The longest matching start wins. Built in (cars3_to_cars2.py): shrd_ -> shared_ always; <character>_fe_<rest> -> <rest> (mcqueen_fe_select_idle -> select_idle; _fe_selected -> select_selected, select_idle1 -> select_idle) except for the prefixes listed here (shrd_fe_horn -> shared_fe_horn). Names lower case, without .oct.",
+  "names": {},
+  "classes": {
+    "truck": ["mack"]
+  },
+  "prefixes": {
+    "shrd_": "shared_",
+    "trk_": "truck_"
+  }
+}

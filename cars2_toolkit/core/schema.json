@@ -1,0 +1,310 @@
+{
+ "engine": {
+  "SubNetwork": [
+   "Clip",
+   "Scene"
+  ],
+  "ProcessorNode": [
+   "AnimCurve3BivectorAngleToRotor",
+   "AnimCurve3EulerXYZToRotor",
+   "AnimCurve3EulerZXYToRotor",
+   "AnimCurve3EulerZYXToRotor",
+   "AnimCurve3ToPosition",
+   "AnimCurve3ToScale",
+   "ClipProcessor",
+   "Connection",
+   "DynamicChain",
+   "EventList",
+   "FrameSelector",
+   "IKFKConstraint",
+   "KinematicStateDecompose",
+   "KinematicStateUpdate",
+   "OffsetKinematicStateUpdate",
+   "Position3dSum",
+   "RadialBasisApplyFloat",
+   "RadialBasisApplyPosition",
+   "RadialBasisApplyScale",
+   "RadialBasisApplyUnitRotor",
+   "RadialBasisDirection",
+   "RadialBasisFloat",
+   "RadialBasisOrientation",
+   "RadialBasisPosition",
+   "RelationshipProcessor",
+   "UberConstraintProcessor"
+  ],
+  "DataNode": [
+   "AnimCurve",
+   "BivectorArray",
+   "Bool",
+   "ClipData",
+   "Dilation",
+   "EulerXYZ",
+   "EulerZXY",
+   "EventList",
+   "EventSet",
+   "Float",
+   "FloatArray",
+   "KinematicState",
+   "Matrix",
+   "Position",
+   "PositionArray",
+   "RelationshipData",
+   "Rotor",
+   "Scale",
+   "ScaleArray",
+   "Transform",
+   "UberConstraintData",
+   "UnitRotorArray",
+   "Vector"
+  ]
+ },
+ "DataNode": {
+  "Bool": {
+   "count": 377,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "Data": 0.828,
+    "Static": 0.003
+   },
+   "data_keys": {}
+  },
+  "Dilation": {
+   "count": 7071,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "Data": 1.0,
+    "BasisDataNodeRef": 0.983
+   },
+   "data_keys": {
+    "Translation": 3666,
+    "Orientation#OrientProxy": 1585,
+    "InheritScale": 1585,
+    "Orientation#Rotor": 338
+   }
+  },
+  "KinematicState": {
+   "count": 132,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0
+   },
+   "data_keys": {}
+  },
+  "Transform": {
+   "count": 2414,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "BasisDataNodeRef": 0.992,
+    "Data": 1.0
+   },
+   "data_keys": {
+    "Translation": 1523,
+    "Orientation#OrientProxy": 751,
+    "InheritScale": 751,
+    "Orientation#Rotor": 447,
+    "Scale": 299
+   }
+  },
+  "RelationshipData": {
+   "count": 71,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "Static": 1.0,
+    "RelationshipDataBlock": 1.0
+   },
+   "data_keys": {}
+  },
+  "Float": {
+   "count": 6026,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "Data": 0.573
+   },
+   "data_keys": {}
+  },
+  "PositionArray": {
+   "count": 124,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "Length": 1.0,
+    "Data": 1.0,
+    "Static": 1.0
+   },
+   "data_keys": {}
+  },
+  "Position": {
+   "count": 152,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "Data": 0.138
+   },
+   "data_keys": {}
+  },
+  "FloatArray": {
+   "count": 570,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "Length": 1.0,
+    "Data": 0.782,
+    "Static": 0.782
+   },
+   "data_keys": {}
+  },
+  "UberConstraintData": {
+   "count": 2018,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "Static": 1.0,
+    "UberConstraintDataBlock": 1.0
+   },
+   "data_keys": {}
+  },
+  "ClipData": {
+   "count": 236,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "Static": 1.0,
+    "ClipDataBlock": 1.0
+   },
+   "data_keys": {}
+  },
+  "Vector": {
+   "count": 24,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "BasisDataNodeRef": 1.0,
+    "Data": 1.0
+   },
+   "data_keys": {}
+  }
+ },
+ "ProcessorNode": {
+  "KinematicStateDecompose": {
+   "count": 132,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "DataNodeRefs": 1.0,
+    "DataNodeAttributes": 1.0
+   },
+   "attribute_layouts": [
+    [
+     "Input",
+     "Output"
+    ]
+   ]
+  },
+  "RelationshipProcessor": {
+   "count": 71,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "RelationshipData": 1.0,
+    "LazyDataNode": 1.0,
+    "Input": 1.0,
+    "Output": 1.0
+   },
+   "attribute_layouts": []
+  },
+  "RadialBasisPosition": {
+   "count": 124,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "DataNodeRefs": 1.0,
+    "DataNodeAttributes": 1.0
+   },
+   "attribute_layouts": [
+    [
+     "ControllerKeys",
+     "Controller",
+     "StandardDeviationValues",
+     "Output"
+    ]
+   ]
+  },
+  "RadialBasisApplyFloat": {
+   "count": 322,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "DataNodeRefs": 1.0,
+    "DataNodeAttributes": 1.0,
+    "NetworkBufferOffsets": 1.0,
+    "NetworkBufferNames": 1.0
+   },
+   "attribute_layouts": [
+    [
+     "RadialBasisValues",
+     "Weights",
+     "Output"
+    ]
+   ]
+  },
+  "Connection": {
+   "count": 2148,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "DataNodeRefs": 1.0,
+    "DataNodeAttributes": 1.0
+   },
+   "attribute_layouts": [
+    [
+     "Input",
+     "Output"
+    ]
+   ]
+  },
+  "UberConstraintProcessor": {
+   "count": 2018,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "UberConstraintDataInput": 1.0,
+    "Output": 1.0,
+    "Input": 1.0,
+    "NetworkBufferOffsets": 1.0,
+    "NetworkBufferNames": 1.0,
+    "LazyDataNode": 0.695,
+    "WorldUpVector": 0.012,
+    "WorldUpPoint": 0.016
+   },
+   "attribute_layouts": []
+  },
+  "ClipProcessor": {
+   "count": 236,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "Input": 1.0,
+    "ClipData": 1.0,
+    "Output": 1.0
+   },
+   "attribute_layouts": []
+  },
+  "DynamicChain": {
+   "count": 2,
+   "fields": {
+    "Header": 1.0,
+    "Type": 1.0,
+    "LazyDataNode": 1.0,
+    "ChainNode": 1.0,
+    "NetworkBufferOffsets": 1.0,
+    "NetworkBufferNames": 1.0
+   },
+   "attribute_layouts": []
+  }
+ }
+}

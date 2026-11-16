@@ -1,0 +1,859 @@
+{
+  "fef33122431c4e413d4a2294e4539be3": {
+    "sizes": [
+      176
+    ],
+    "samples": [
+      "characters__cars3_arvy__materials__cars3_arvy_teamblue_cab__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamblue_sides__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamgreen_cab__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamgreen_sides__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamred_cab__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamred_sides__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamyellow_cab__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamyellow_sides__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobby_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobby_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobby_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobby_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobby_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobby_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobby_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobby_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamblue_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamgreen_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamred_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamyellow_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamblue_body01__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamblue_body02__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamblue_tires_back__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamblue_tires_front__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamgreen_body01__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamgreen_body02__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamgreen_tires_back__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamgreen_tires_front__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamred_body01__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamred_body02__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamred_tires_back__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamred_tires_front__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamyellow_body01__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamyellow_body02__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamyellow_tires_back__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamyellow_tires_front__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamblue_hood__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamblue_underbelly__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamgreen_hood__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamgreen_underbelly__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamred_hood__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamred_underbelly__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamyellow_hood__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamyellow_underbelly__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamblue_wheel__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamgreen_wheel__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamyellow_wheel__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamblue_cab__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamblue_helmet__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamblue_tow__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamgreen_cab__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamgreen_helmet__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamgreen_tow__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamred_cab__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamred_helmet__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamred_tow__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamyellow_cab__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamyellow_helmet__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamyellow_tow__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mack_teamred_wheel__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamblue_wheel__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamgreen_wheel__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamred_wheel__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamyellow_wheel__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamblue_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamgreen_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamred_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamyellow_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_body_teamblue__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_body_teamgreen__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_body_teamred__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_body_teamyellow__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_wheel_teamblue__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_wheel_teamgreen__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_wheel_teamred__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_wheel_teamyellow__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamblue_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamgreen_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamred_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamyellow_tires__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamblue_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamgreen_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamred_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamyellow_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamblue_body__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamblue_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamgreen_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamred_body__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamred_tire__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamyellow_body__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamyellow_tire__skinning_isenabled_true.mtb",
+      "materials__cars3_guido_teamblue_body__skinning_isenabled_true.mtb",
+      "materials__cars3_guido_teamblue_tires__skinning_isenabled_true.mtb",
+      "materials__cars3_guido_teamgreen_body__skinning_isenabled_true.mtb",
+      "materials__cars3_guido_teamgreen_tires__skinning_isenabled_true.mtb",
+      "materials__cars3_guido_teamred_body__skinning_isenabled_true.mtb",
+      "materials__cars3_guido_teamred_tires__skinning_isenabled_true.mtb",
+      "materials__cars3_guido_teamyellow_body__skinning_isenabled_true.mtb",
+      "materials__cars3_guido_teamyellow_tires__skinning_isenabled_true.mtb",
+      "materials__fx__carlodswap_1__skinning_isenabled_true.mtb"
+    ]
+  },
+  "1e70dba29a6784bc1897cfa4e4b20f08": {
+    "sizes": [
+      368
+    ],
+    "samples": [
+      "characters__cars3_arvy__materials__cars3_arvy_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_arvy__materials__cars3_arvy_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_dochudson__materials__cars3_dochudson_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_dochudson__materials__cars3_dochudson_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_dochudson__materials__cars3_dochudson_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_dochudson__materials__cars3_dochudson_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_fritter__materials__cars3_fritter_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mack__materials__cars3_mack_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_river__materials__cars3_river_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_classic_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_tucker__materials__cars3_tucker_teamyellow_eyes__skinning_isenabled_true.mtb"
+    ]
+  },
+  "5e3b3bf895a78a3d1bc797b00d85d061": {
+    "sizes": [
+      368
+    ],
+    "samples": [
+      "characters__cars3_bobby__materials__cars3_bobbyswift_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobbyswift_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobbyswift_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_bobby__materials__cars3_bobbyswift_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_brick__materials__cars3_brick_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_chickhicks__materials__cars3_chickhicks_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_cruz__materials__cars3_cruz_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_drdamage__materials__cars3_drdamage_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_guido__materials__cars3_guido_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_guido__materials__cars3_guido_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_guido__materials__cars3_guido_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_guido__materials__cars3_guido_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_louise__materials__cars3_louise_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_luigi__materials__cars3_luigi_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_materthegreater__materials__cars3_materthegreater_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mater__materials__cars3_mater_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_mcqueen__materials__cars3_mcqueen_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_natalie__materials__cars3_natalie_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_ramone__materials__cars3_ramone_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_sally__materials__cars3_sally_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_tankcoat__materials__cars3_tankcoat_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamblue_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamgreen_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamred_eyes__skinning_isenabled_true.mtb",
+      "characters__cars3_trippledent__materials__cars3_tripledent_teamyellow_eyes__skinning_isenabled_true.mtb",
+      "materials__cars3_mcqueen_eyes__skinning_isenabled_true.mtb"
+    ]
+  },
+  "717a311643abdc4de1c2461cf950be63": {
+    "sizes": [
+      176
+    ],
+    "samples": [
+      "characters__cars3_jacksonstorm__materials__cars3_jacksonstorm_teamgreen_body__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_body__skinning_isenabled_true.mtb",
+      "characters__cars3_smokey__materials__cars3_smokey_wheel__skinning_isenabled_true.mtb",
+      "materials__cars3_mcqueen_tires__skinning_isenabled_true.mtb"
+    ]
+  },
+  "4bcb5ce653186b6c065744b06dc81336": {
+    "sizes": [
+      128
+    ],
+    "samples": [
+      "characters__cars_mcqueen__materials__cars_mq_brakelights.mtb",
+      "characters__cars_mcqueen__materials__cars_mq_headlights.mtb",
+      "missing.mtb",
+      "materials__fx__statusfx_gridtest.mtb",
+      "materials__templates__specificpurpose__wound__t_wounded_cube.mtb",
+      "materials__templates__specificpurpose__wound__t_wounded_cube_alpha.mtb",
+      "materials__templates__specificpurpose__wound__t_wounded_cube_occlusion.mtb",
+      "materials__templates__specificpurpose__wound__t_wounded_cylindrical.mtb",
+      "materials__templates__specificpurpose__wound__t_wounded_cylindrical_alpha.mtb",
+      "materials__templates__specificpurpose__wound__t_wounded_cylindrical_occlusion.mtb",
+      "materials__templates__specificpurpose__wound__t_wounded_planar.mtb",
+      "materials__templates__specificpurpose__wound__t_wounded_planar_alpha.mtb",
+      "materials__templates__specificpurpose__wound__t_wounded_planar_occlusion.mtb",
+      "materials__worlds__0_texturelightingtest.mtb",
+      "materials__worlds__skidmarkzone.mtb"
+    ]
+  },
+  "6b11b4268126b57c5ed5c3e2520944bd": {
+    "sizes": [
+      624
+    ],
+    "samples": [
+      "characters__cars_mcqueen__materials__cars_mq_brakelights_glass.mtb",
+      "characters__cars_mcqueen__materials__cars_mq_headlights_glass.mtb"
+    ]
+  },
+  "f22f08f6390638528e56f3fa32d77d9d": {
+    "sizes": [
+      368
+    ],
+    "samples": [
+      "characters__cars_mcqueen__materials__cars_mq_eyeshader.mtb"
+    ]
+  },
+  "9b9b27f1461d08adf1dccdf522467a5f": {
+    "sizes": [
+      128
+    ],
+    "samples": [
+      "missing__skinning_isenabled_true.mtb",
+      "materials__fx__carlodswap_2__skinning_isenabled_true.mtb",
+      "materials__fx__statusfx_gridtest__skinning_isenabled_true.mtb"
+    ]
+  },
+  "a0e8555a043145d7c7c587d1d1d587c9": {
+    "sizes": [
+      240
+    ],
+    "samples": [
+      "materials__cars3_mcqueen_body__skinning_isenabled_true.mtb"
+    ]
+  },
+  "a006944f3a30e35eab665f14e9f8f050": {
+    "sizes": [
+      672
+    ],
+    "samples": [
+      "materials__fx__alphafadesmooth.mtb"
+    ]
+  },
+  "77160d0981642ee95eb8f9e614be34c5": {
+    "sizes": [
+      672
+    ],
+    "samples": [
+      "materials__fx__alphafadesmooth__skinning_isenabled_true.mtb"
+    ]
+  },
+  "fc0fdc35a335d8a90992da7e1dd73c20": {
+    "sizes": [
+      144
+    ],
+    "samples": [
+      "materials__fx__atatvulnerable.mtb"
+    ]
+  },
+  "863329d3d3d27998684521dba052fdb3": {
+    "sizes": [
+      144
+    ],
+    "samples": [
+      "materials__fx__atatvulnerable__skinning_isenabled_true.mtb"
+    ]
+  },
+  "5a074cdc5519bcce89180b31a96ec823": {
+    "sizes": [
+      128
+    ],
+    "samples": [
+      "materials__fx__bf_holo_mater.mtb",
+      "materials__fx__toycreation_holo_grace.mtb"
+    ]
+  },
+  "115a504e5a565f46c3e82225e7c77b47": {
+    "sizes": [
+      128
+    ],
+    "samples": [
+      "materials__fx__bf_holo_mater__skinning_isenabled_true.mtb",
+      "materials__fx__toycreation_holo_grace__skinning_isenabled_true.mtb"
+    ]
+  },
+  "89f66723cf4fa81269712ed4074cc319": {
+    "sizes": [
+      128
+    ],
+    "samples": [
+      "materials__fx__bp_v_shell.mtb"
+    ]
+  },
+  "696813935e14d370930ae44b2bbf9c9f": {
+    "sizes": [
+      128
+    ],
+    "samples": [
+      "materials__fx__bp_v_shell__skinning_isenabled_true.mtb"
+    ]
+  },
+  "fafd79f792eddefd0f14a89f4f4d99b9": {
+    "sizes": [
+      128
+    ],
+    "samples": [
+      "materials__fx__glasslodswap_1__skinning_isenabled_true.mtb",
+      "materials__fx__glasslodswap_2__skinning_isenabled_true.mtb"
+    ]
+  },
+  "0784bdb690b8cdf5f503e0750edbd70f": {
+    "sizes": [
+      672
+    ],
+    "samples": [
+      "materials__fx__helpghost.mtb",
+      "materials__fx__materboss_trail.mtb"
+    ]
+  },
+  "0193319675fed203b4ec4d31c001282f": {
+    "sizes": [
+      672
+    ],
+    "samples": [
+      "materials__fx__helpghost__skinning_isenabled_true.mtb",
+      "materials__fx__materboss_trail__skinning_isenabled_true.mtb"
+    ]
+  },
+  "d2b87995d6833c3c96abc43ba1b4a7e9": {
+    "sizes": [
+      320
+    ],
+    "samples": [
+      "materials__fx__ice_grow_transfx2.mtb"
+    ]
+  },
+  "b86a7634d29b120d3454b57036a49bf5": {
+    "sizes": [
+      320
+    ],
+    "samples": [
+      "materials__fx__ice_grow_transfx2__skinning_isenabled_true.mtb"
+    ]
+  },
+  "cbaec8edac7cdc5a6d1d2d8c47bd2277": {
+    "sizes": [
+      224
+    ],
+    "samples": [
+      "materials__fx__ifs_powerup_chi__skinning_isenabled_true.mtb"
+    ]
+  },
+  "7eeb47d5b62714994a1e73df85ca8ae8": {
+    "sizes": [
+      224
+    ],
+    "samples": [
+      "materials__fx__itz_chrome.mtb",
+      "materials__fx__itz_impact.mtb",
+      "materials__fx__skinfx_itz_blue.mtb",
+      "materials__fx__skinfx_itz_gold.mtb",
+      "materials__fx__skinfx_itz_green.mtb",
+      "materials__fx__skinfx_itz_orange.mtb",
+      "materials__fx__skinfx_itz_pink.mtb",
+      "materials__fx__skinfx_itz_purple.mtb",
+      "materials__fx__skinfx_itz_rainbow.mtb",
+      "materials__fx__skinfx_itz_special.mtb"
+    ]
+  },
+  "c6030d770bd101d7803cf8f351743669": {
+    "sizes": [
+      224
+    ],
+    "samples": [
+      "materials__fx__itz_chrome__skinning_isenabled_true.mtb",
+      "materials__fx__itz_impact__skinning_isenabled_true.mtb",
+      "materials__fx__skinfx_itz_blue__skinning_isenabled_true.mtb",
+      "materials__fx__skinfx_itz_gold__skinning_isenabled_true.mtb",
+      "materials__fx__skinfx_itz_green__skinning_isenabled_true.mtb",
+      "materials__fx__skinfx_itz_orange__skinning_isenabled_true.mtb",
+      "materials__fx__skinfx_itz_pink__skinning_isenabled_true.mtb",
+      "materials__fx__skinfx_itz_purple__skinning_isenabled_true.mtb",
+      "materials__fx__skinfx_itz_rainbow__skinning_isenabled_true.mtb",
+      "materials__fx__skinfx_itz_special__skinning_isenabled_true.mtb"
+    ]
+  },
+  "3eded933d407a7245150dbcfa6075aa8": {
+    "sizes": [
+      192
+    ],
+    "samples": [
+      "materials__fx__nova_silhouette.mtb",
+      "materials__fx__shockfx_leech2.mtb",
+      "materials__fx__shockfx_nullifier.mtb",
+      "materials__fx__shockfx_nullifier2.mtb",
+      "materials__fx__shockfx_shortcirc_new.mtb",
+      "materials__fx__shockfx_spikestrip_repair.mtb",
+      "materials__fx__shockfx_static2.mtb",
+      "materials__fx__skinfx_spawn_in.mtb",
+      "materials__worlds__krt_fx_unbreakable_car.mtb"
+    ]
+  },
+  "2524a83c3080bcdac81c21c0dc211d8a": {
+    "sizes": [
+      192
+    ],
+    "samples": [
+      "materials__fx__nova_silhouette__skinning_isenabled_true.mtb",
+      "materials__fx__shockfx_leech2__skinning_isenabled_true.mtb",
+      "materials__fx__shockfx_nullifier2__skinning_isenabled_true.mtb",
+      "materials__fx__shockfx_nullifier__skinning_isenabled_true.mtb",
+      "materials__fx__shockfx_shortcirc_new__skinning_isenabled_true.mtb",
+      "materials__fx__shockfx_spikestrip_repair__skinning_isenabled_true.mtb",
+      "materials__fx__shockfx_static2__skinning_isenabled_true.mtb",
+      "materials__fx__skinfx_spawn_in__skinning_isenabled_true.mtb",
+      "materials__worlds__krt_fx_unbreakable_car__skinning_isenabled_true.mtb"
+    ]
+  },
+  "de61bac670b63eaaa3bdd4aa7de5c17e": {
+    "sizes": [
+      272
+    ],
+    "samples": [
+      "materials__fx__scaleonbirth.mtb",
+      "materials__fx__toycreation_blackwipe.mtb",
+      "materials__fx__toycreation_wipeb.mtb"
+    ]
+  },
+  "1aa4ffb377f05dd7033bd164d9ee7bc6": {
+    "sizes": [
+      304
+    ],
+    "samples": [
+      "materials__fx__scaleonbirthenvmap.mtb"
+    ]
+  },
+  "f4fe739a3524b25bcc405ba44bcde3aa": {
+    "sizes": [
+      304
+    ],
+    "samples": [
+      "materials__fx__scaleonbirthenvmap__skinning_isenabled_true.mtb"
+    ]
+  },
+  "f755e490210b36ce84426249fd93755b": {
+    "sizes": [
+      272
+    ],
+    "samples": [
+      "materials__fx__scaleonbirthvo.mtb"
+    ]
+  },
+  "ca86fca58bd1dc33d4554efd9c61c33c": {
+    "sizes": [
+      272
+    ],
+    "samples": [
+      "materials__fx__scaleonbirthvo__skinning_isenabled_true.mtb"
+    ]
+  },
+  "943479c16691ce811ee5637312a13a15": {
+    "sizes": [
+      272
+    ],
+    "samples": [
+      "materials__fx__scaleonbirth__skinning_isenabled_true.mtb",
+      "materials__fx__toycreation_blackwipe__skinning_isenabled_true.mtb",
+      "materials__fx__toycreation_wipeb__skinning_isenabled_true.mtb"
+    ]
+  },
+  "7fdea4bdbbc5505fd953191c1dac097a": {
+    "sizes": [
+      256
+    ],
+    "samples": [
+      "materials__fx__shockfx_thr.mtb"
+    ]
+  },
+  "cb31939085306d60e9da9150b5aa4c76": {
+    "sizes": [
+      256
+    ],
+    "samples": [
+      "materials__fx__shockfx_thr__skinning_isenabled_true.mtb"
+    ]
+  },
+  "c637146d37995f2b11abdea9f65cdc16": {
+    "sizes": [
+      272
+    ],
+    "samples": [
+      "materials__fx__statusfx_car_dust__skinning_isenabled_true.mtb",
+      "materials__fx__statusfx_car_impact_scorch_skin__skinning_isenabled_true.mtb",
+      "materials__fx__statusfx_car_mud2__skinning_isenabled_true.mtb",
+      "materials__fx__statusfx_car_mud__skinning_isenabled_true.mtb",
+      "materials__fx__statusfx_car_oil__skinning_isenabled_true.mtb",
+      "materials__fx__statusfx_car_rapidfire__skinning_isenabled_true.mtb",
+      "materials__fx__statusfx_car_stress__skinning_isenabled_true.mtb",
+      "materials__worlds__statusfx_car_impact_scorch_smokey__skinning_isenabled_true.mtb",
+      "materials__worlds__statusfx_car_impact_scorch__skinning_isenabled_true.mtb"
+    ]
+  },
+  "675c5f8f85fcc72b38854e336dd9524a": {
+    "sizes": [
+      272
+    ],
+    "samples": [
+      "materials__fx__statusfx_car_impact_scorch_skin.mtb",
+      "materials__fx__statusfx_car_oil.mtb",
+      "materials__fx__statusfx_car_rapidfire.mtb",
+      "materials__worlds__statusfx_car_impact_scorch.mtb",
+      "materials__worlds__statusfx_car_impact_scorch_smokey.mtb"
+    ]
+  },
+  "e4a87f20d80e998e7f849734222bd236": {
+    "sizes": [
+      224
+    ],
+    "samples": [
+      "materials__fx__statusfx_car_wet__skinning_isenabled_true.mtb"
+    ]
+  },
+  "bb3ba1d8fc4bd6c514ff0a9706acf842": {
+    "sizes": [
+      144
+    ],
+    "samples": [
+      "materials__fx__statusfx_energyflash.mtb",
+      "materials__fx__statusfx_goldencar.mtb",
+      "materials__fx__teamcolorsshell.mtb",
+      "materials__worlds__debugselectionsilhouette.mtb"
+    ]
+  },
+  "368fb59278407c94eabc8dd84e39d862": {
+    "sizes": [
+      144
+    ],
+    "samples": [
+      "materials__fx__statusfx_energyflash__skinning_isenabled_true.mtb",
+      "materials__fx__statusfx_goldencar__skinning_isenabled_true.mtb",
+      "materials__fx__teamcolorsshell__skinning_isenabled_true.mtb",
+      "materials__worlds__debugselectionsilhouette__skinning_isenabled_true.mtb"
+    ]
+  },
+  "f92c9380d3bfcad779b8012641bea430": {
+    "sizes": [
+      144
+    ],
+    "samples": [
+      "materials__fx__test_freeze_bob.mtb"
+    ]
+  },
+  "e6b4181d62909b26246240fed19c59ae": {
+    "sizes": [
+      144
+    ],
+    "samples": [
+      "materials__fx__test_freeze_bob__skinning_isenabled_true.mtb"
+    ]
+  },
+  "2ac0c79543e137970a889d5a5a3de438": {
+    "sizes": [
+      128
+    ],
+    "samples": [
+      "materials__fx__toycreation_ghostb.mtb"
+    ]
+  },
+  "2a9e33c0c79392349978aa96b038f92e": {
+    "sizes": [
+      128
+    ],
+    "samples": [
+      "materials__fx__toycreation_ghostb__skinning_isenabled_true.mtb"
+    ]
+  },
+  "2916b72120272263f8bb4c522cb8f2d9": {
+    "sizes": [
+      320
+    ],
+    "samples": [
+      "materials__fx__toycreation_wipe_blue.mtb"
+    ]
+  },
+  "6ef1431b363da48810096ba7db463d94": {
+    "sizes": [
+      320
+    ],
+    "samples": [
+      "materials__fx__toycreation_wipe_blue__skinning_isenabled_true.mtb"
+    ]
+  },
+  "4ef109a638b1276f3c6a3b88dbd7f6d4": {
+    "sizes": [
+      32
+    ],
+    "samples": [
+      "materials__templates__gameplay__sprite__t_sprite_simple.mtb"
+    ]
+  },
+  "950beeee69bed9c024b1781fe7a1e49e": {
+    "sizes": [
+      32
+    ],
+    "samples": [
+      "materials__templates__ui___ui_sprite.mtb"
+    ]
+  },
+  "10502e03170a4d061182ffd6359d527a": {
+    "sizes": [
+      176
+    ],
+    "samples": [
+      "materials__worlds__cars3_rad_farmfield_blend_mod__skinning_isenabled_true.mtb"
+    ]
+  },
+  "1846b9fc003407686ef74c20fbb6d31d": {
+    "sizes": [
+      192
+    ],
+    "samples": [
+      "materials__worlds__cars3_uni_modes_banners_battlerace.mtb",
+      "materials__worlds__cars3_uni_modes_banners_hangtime.mtb",
+      "materials__worlds__cars3_uni_modes_banners_race.mtb",
+      "materials__worlds__cars3_uni_modes_banners_takedown.mtb",
+      "materials__worlds__cars3_uni_modes_banners_timetrial.mtb"
+    ]
+  },
+  "12c2797ea878e548252a257f1e7617b9": {
+    "sizes": [
+      320
+    ],
+    "samples": [
+      "materials__worlds__scaleonbirthmoddiff.mtb"
+    ]
+  },
+  "9afc23fa3a18123a88e7f9821205764f": {
+    "sizes": [
+      320
+    ],
+    "samples": [
+      "materials__worlds__scaleonbirthmoddiff__skinning_isenabled_true.mtb"
+    ]
+  },
+  "7aa1b9045aa4306a9b9104c55d6cbe8b": {
+    "sizes": [
+      272
+    ],
+    "samples": [
+      "materials__worlds__scaleonbirthmulti.mtb"
+    ]
+  },
+  "558ed45fbb4f1a71337ba9009910eb4e": {
+    "sizes": [
+      272
+    ],
+    "samples": [
+      "materials__worlds__scaleonbirthmulti__skinning_isenabled_true.mtb"
+    ]
+  },
+  "ed2b9a1712abbfc26ebc763e5ca861ab": {
+    "sizes": [
+      160
+    ],
+    "samples": [
+      "materials__worlds__skidmark.mtb"
+    ]
+  },
+  "38a467ab86c192c672de418a455f6c89": {
+    "sizes": [
+      192
+    ],
+    "samples": [
+      "materials__worlds__teamcolor.mtb"
+    ]
+  },
+  "4c796dac51be048c3e4eaa05560a0212": {
+    "sizes": [
+      192
+    ],
+    "samples": [
+      "materials__worlds__teamcolor__skinning_isenabled_true.mtb"
+    ]
+  },
+  "928516ccb93694bf3ff5ebbeda88945e": {
+    "sizes": [
+      528
+    ],
+    "samples": [
+      "materials__worlds__test_holowater.mtb"
+    ]
+  }
+}

@@ -1,0 +1,5176 @@
+{
+  "materials__cars3_temp_gridwht": {
+    "diffuse": "bf56145e39d6a0a1",
+    "textures": [
+      "bf56145e39d6a0a1",
+      "5ac650c8384c0e8d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_florida500_b"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3_temp_gridgrey": {
+    "diffuse": "9a08ae4e4c477ef6",
+    "textures": [
+      "9a08ae4e4c477ef6",
+      "5ac650c8384c0e8d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_florida500_b"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3_temp_grid_dark": {
+    "diffuse": "ad4d699429aeb99c",
+    "textures": [
+      "ad4d699429aeb99c",
+      "5ac650c8384c0e8d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_florida500_b"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_concretebare": {
+    "diffuse": "3f9900b08132f2bf",
+    "textures": [
+      "3f9900b08132f2bf",
+      "1e54cda26e57d3aa",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_florida500_b",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_uni_dirsign": {
+    "diffuse": "2c8a8d10b9e19c8e",
+    "textures": [
+      "2c8a8d10b9e19c8e",
+      "e3d4d2d523c60425",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "88c83eaf81fab792644095902a2df658",
+    "owners": [
+      "cars3_florida500_b"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_sandblend": {
+    "diffuse": null,
+    "textures": [
+      null,
+      "deae19d13cd57bb0",
+      "f4184766c4ba4eba",
+      null
+    ],
+    "sampler_flags": [
+      66,
+      2,
+      2,
+      3
+    ],
+    "shader": "3057f4360cfd97adadc5193ae7c5488a",
+    "owners": [
+      "cars3_florida500_b",
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "materials__worlds__cars3_fla_asphaltlines": {
+    "diffuse": "1d29520fe4b8e42b",
+    "textures": [
+      "1d29520fe4b8e42b",
+      "d25780422fa79b42"
+    ],
+    "sampler_flags": [
+      16,
+      2
+    ],
+    "shader": "07a9d7636e42d74066c8550263078e64",
+    "owners": [
+      "cars3_florida500_b",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3__metal_rad_farm": {
+    "diffuse": "761337f0d6408432",
+    "textures": [
+      "761337f0d6408432",
+      "a53ad11c985a77e9",
+      "56f5460e2507b782",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "5417f9a6af73547ca4b9df76ef820bcf",
+    "owners": [
+      "cars3_florida500_b"
+    ],
+    "color": [
+      0.22782357037067413,
+      0.22782357037067413,
+      0.22782357037067413
+    ]
+  },
+  "materials__worlds__cars3_uni_modes_banners_defaultwind__gpuinstancing_isenabled_true": {
+    "diffuse": null,
+    "textures": [
+      null,
+      null,
+      "d38aa251f6bf6552",
+      "f871e8fe4b83e1fa",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "10479b86130aec0d4922bd9950469b67",
+    "owners": [
+      "cars3_florida500_b",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_uni_modes_dark_metal_defaultwindconstraint__gpuinstancing_isenabled_true": {
+    "diffuse": null,
+    "textures": [
+      null,
+      null,
+      "eb168357e5865780",
+      "1881929bf76ce2c6",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "10479b86130aec0d4922bd9950469b67",
+    "owners": [
+      "cars3_florida500_b",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.2648521661758423,
+      0.3077755272388458,
+      0.3738256096839905
+    ]
+  },
+  "materials__worlds__cars3_th_metal_slight_rust_dark__gpuinstancing_isenabled_true": {
+    "diffuse": "3b68bb681c1496e7",
+    "textures": [
+      "3b68bb681c1496e7",
+      "3a362d187c7df2fa",
+      "d2ee7058b5ee181f",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "5c7d229fa13d3de718fc08e9eccef8f1",
+    "owners": [
+      "cars3_florida500_b"
+    ],
+    "color": [
+      0.328187495470047,
+      0.3846433758735657,
+      0.42583203315734863
+    ]
+  },
+  "materials__worlds__cars3_mr_5barmetalrust__gpuinstancing_isenabled_true": {
+    "diffuse": "879df5f33a4649c7",
+    "textures": [
+      "879df5f33a4649c7",
+      "0fe373e0a93d0fcc",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4451340c7536da7e7d88a600b561ed0d",
+    "owners": [
+      "cars3_florida500_b"
+    ],
+    "color": [
+      0.2569063603878021,
+      0.2053893506526947,
+      0.2053893506526947
+    ]
+  },
+  "materials__worlds__cars3_crowd_combine_low_pivotanim__gpuinstancing_isenabled_true": {
+    "diffuse": "65465b3a7fa1508c",
+    "textures": [
+      "65465b3a7fa1508c",
+      "a65f686cc126a4a0",
+      "12488a790af95018",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "3742e5630077e54cb99989fba2cdc8f7",
+    "owners": [
+      "cars3_florida500_b"
+    ],
+    "color": [
+      3.5199999809265137,
+      0.0,
+      0.0
+    ]
+  },
+  "materials__worlds__cars3_uni_chainlinkfence2__gpuinstancing_isenabled_true": {
+    "diffuse": "a62a5367aa9987eb",
+    "textures": [
+      "a62a5367aa9987eb",
+      "a785e43d2fb13d4a",
+      null
+    ],
+    "sampler_flags": [
+      16,
+      2,
+      3
+    ],
+    "shader": "daae8a4ff750c8399917b31c29f9b550",
+    "owners": [
+      "cars3_florida500_b",
+      "cars3_f500_fountain_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_uni_barrierpole__gpuinstancing_isenabled_true": {
+    "diffuse": "ea655fdf9e2e19f9",
+    "textures": [
+      "ea655fdf9e2e19f9",
+      "90542b0765e4fc43",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4451340c7536da7e7d88a600b561ed0d",
+    "owners": [
+      "cars3_florida500_b",
+      "cars3_f500_beach_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_barrierred__gpuinstancing_isenabled_true": {
+    "diffuse": "b7c461939f22e0f1",
+    "textures": [
+      "b7c461939f22e0f1",
+      "e984edaf4d1d8458",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4451340c7536da7e7d88a600b561ed0d",
+    "owners": [
+      "cars3_florida500_b",
+      "cars3_f500_fountain_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_barrierwhite__gpuinstancing_isenabled_true": {
+    "diffuse": "e69f8f0599c3a651",
+    "textures": [
+      "e69f8f0599c3a651",
+      "72030f68c81cb1d1",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4451340c7536da7e7d88a600b561ed0d",
+    "owners": [
+      "cars3_florida500_b",
+      "cars3_f500_fountain_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.4479883909225464,
+      0.4479883909225464,
+      0.4479883909225464
+    ]
+  },
+  "materials__worlds__shadowcaster__gpuinstancing_isenabled_true": {
+    "diffuse": null,
+    "textures": [
+      null
+    ],
+    "sampler_flags": [
+      3
+    ],
+    "shader": "6d5dca67900ded9f7434e50698ad75c2",
+    "owners": [
+      "cars3_florida500_b",
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_sidewalk": {
+    "diffuse": "ffa92689f18e6838",
+    "textures": [
+      "ffa92689f18e6838",
+      "72ff234028467672",
+      "ed1291187a654ead",
+      null,
+      "27db9e27f5a93fc9"
+    ],
+    "sampler_flags": [
+      8,
+      8,
+      2,
+      3,
+      2
+    ],
+    "shader": "9446d2689dfafd27f05169b363323e73",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_sidewalk3": {
+    "diffuse": "ffa92689f18e6838",
+    "textures": [
+      "ffa92689f18e6838",
+      "452888137805cd5c",
+      "5afa67f6414a3734",
+      null,
+      "27db9e27f5a93fc9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "9446d2689dfafd27f05169b363323e73",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn"
+    ],
+    "color": [
+      0.557338535785675,
+      0.557338535785675,
+      0.557338535785675
+    ]
+  },
+  "materials__worlds__cars3_fla_asphalt": {
+    "diffuse": "a85fbfa529f2089a",
+    "textures": [
+      "a85fbfa529f2089a",
+      "e1bad8db9b5956fd",
+      "b5cccf007c319bca",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "9446d2689dfafd27f05169b363323e73",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.6272485256195068,
+      0.6272485256195068,
+      0.6272485256195068
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquares": {
+    "diffuse": "e9edc470c60c2a39",
+    "textures": [
+      "e9edc470c60c2a39",
+      "ed8b33a8292eedcf",
+      "e9d5992d26c68e04",
+      null,
+      "27db9e27f5a93fc9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "9446d2689dfafd27f05169b363323e73",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_stadium_trk_b_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquarewall": {
+    "diffuse": "e9edc470c60c2a39",
+    "textures": [
+      "e9edc470c60c2a39",
+      "ed8b33a8292eedcf",
+      null,
+      "c22430a9c9179c59"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_stadium_trk_b_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_paintedmetal": {
+    "diffuse": "6daea974f397c653",
+    "textures": [
+      "6daea974f397c653",
+      "8dba3b1032723875",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_whitewall2": {
+    "diffuse": "95e536c9d2415f79",
+    "textures": [
+      "95e536c9d2415f79",
+      "d39ca549e94c9570",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.9093917012214661,
+      0.9093917012214661,
+      0.9093917012214661
+    ]
+  },
+  "materials__worlds__cars3_fla_grasss": {
+    "diffuse": "d9eefba60bb05083",
+    "textures": [
+      "d9eefba60bb05083",
+      "ff541c8c3ee6e9bc",
+      "07b243d79ac9b81b",
+      null,
+      "13763fb6db289781",
+      "e6af68cfb5b2edbd"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "1f0b464fe55689e9bc8ae2e6f80fcc5c",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_barriersafer": {
+    "diffuse": "172b5fca64a525a3",
+    "textures": [
+      "172b5fca64a525a3",
+      "1410f0887765f0e1",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      16,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.5479258298873901,
+      0.5479258298873901,
+      0.5479258298873901
+    ]
+  },
+  "materials__worlds__cars3_uni_squarefence": {
+    "diffuse": "f570af32bfec20ab",
+    "textures": [
+      "f570af32bfec20ab",
+      "2dceef743dd25c73",
+      null
+    ],
+    "sampler_flags": [
+      16,
+      2,
+      3
+    ],
+    "shader": "0405843a0af2bd9939b49a6703535a88",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_tracklights": {
+    "diffuse": "95cd78a18192f7ef",
+    "textures": [
+      "95cd78a18192f7ef",
+      "d1eb0605c0b7597c",
+      null,
+      "dff8037968f5e2d7"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "857473af91b6c775e7da7ba0024673ae",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_stadium_trk_b_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_stucco_light_01__gpuinstancing_isenabled_true": {
+    "diffuse": "34a5569a3bd18c25",
+    "textures": [
+      "34a5569a3bd18c25",
+      "ea2132ddbda72224",
+      "9a73e341175b756d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "5c7d229fa13d3de718fc08e9eccef8f1",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.7598256468772888,
+      0.8332309722900391,
+      0.9220290184020996
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_01__gpuinstancing_isenabled_true": {
+    "diffuse": "bc350cb7da83f189",
+    "textures": [
+      "bc350cb7da83f189",
+      "05afed70e3fae69a",
+      "2ed9d7c285bf8839",
+      "5a24309899a4ae17",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ac693fe1b2f023965f2c75e65161266a",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_stucco_dark_01__gpuinstancing_isenabled_true": {
+    "diffuse": "ab128a821f681cf3",
+    "textures": [
+      "ab128a821f681cf3",
+      "f5c0f74d1b03e3f1",
+      "9a73e341175b756d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "5c7d229fa13d3de718fc08e9eccef8f1",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.7598256468772888,
+      0.8332309722900391,
+      0.9220290184020996
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_02__gpuinstancing_isenabled_true": {
+    "diffuse": "0039df812714b8ee",
+    "textures": [
+      "0039df812714b8ee",
+      "aa032f2dafab6abf",
+      "3e13f480c160dcc5",
+      "5048c84bbfbdc8a4",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ac693fe1b2f023965f2c75e65161266a",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fb_palmbark01__gpuinstancing_isenabled_true": {
+    "diffuse": null,
+    "textures": [
+      null,
+      "516784f0d106e912",
+      "fa20914defdf6416",
+      "c1424e4a63970a3a",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      3
+    ],
+    "shader": "909dfe23b96f2314dd9bd9fc6125a1d7",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_beach_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fb_palmbranch01__gpuinstancing_isenabled_true": {
+    "diffuse": null,
+    "textures": [
+      null,
+      "5427a2196cc9feac",
+      "cd08d346c667328c",
+      "13763fb6db289781",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      3
+    ],
+    "shader": "909dfe23b96f2314dd9bd9fc6125a1d7",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_beach_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_tent_white__gpuinstancing_isenabled_true": {
+    "diffuse": "4876ee372d0920b6",
+    "textures": [
+      "4876ee372d0920b6",
+      "6c4f9f37feb24092",
+      "9a73e341175b756d",
+      null,
+      null,
+      "dc0615cd938f7182"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "378ba7ab196ff2df2034670c8d64c1e0",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_backstadium_trk_b_ngn"
+    ],
+    "color": [
+      0.40598294138908386,
+      0.40598294138908386,
+      0.42583203315734863
+    ]
+  },
+  "materials__worlds__cars3_fla_500decal__gpuinstancing_isenabled_true": {
+    "diffuse": "172ade578fc9bbea",
+    "textures": [
+      "172ade578fc9bbea",
+      "0da313ea7e511bcd"
+    ],
+    "sampler_flags": [
+      16,
+      2
+    ],
+    "shader": "9e3799f0a3605308f335e09f4c6c2736",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn"
+    ],
+    "color": [
+      0.8002021908760071,
+      0.8002021908760071,
+      0.8002021908760071
+    ]
+  },
+  "materials__worlds__cars3_uni_swatches_env__gpuinstancing_isenabled_true": {
+    "diffuse": "b6614d7f69a59fa3",
+    "textures": [
+      "b6614d7f69a59fa3",
+      "06225889183dfe79",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "2eb8fe2d284c3bd97a96382507319381",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_boats_trk_b_ngn",
+      "cars3_f500_boats_trk_b_ngn",
+      "cars3_f500_boats_trk_b_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_tent_white_ogn__gpuinstancing_isenabled_true": {
+    "diffuse": "4876ee372d0920b6",
+    "textures": [
+      "4876ee372d0920b6",
+      "eb870c6cd7e70374",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4451340c7536da7e7d88a600b561ed0d",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn"
+    ],
+    "color": [
+      0.40598294138908386,
+      0.40598294138908386,
+      0.42583203315734863
+    ]
+  },
+  "materials__worlds__cars3_fla_paintedmetal__gpuinstancing_isenabled_true": {
+    "diffuse": "6daea974f397c653",
+    "textures": [
+      "6daea974f397c653",
+      "8dba3b1032723875",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "f647c875c29b7e9919b071fb410bb45a",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_beach_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_tracklights__gpuinstancing_isenabled_true": {
+    "diffuse": "95cd78a18192f7ef",
+    "textures": [
+      "95cd78a18192f7ef",
+      "d1eb0605c0b7597c",
+      null,
+      "dff8037968f5e2d7"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "3c23773f3ba3070a309150dea3ae3a71",
+    "owners": [
+      "cars3_f500_backstadium_trk_b_ngn",
+      "cars3_f500_beach_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_sandtracksdecal": {
+    "diffuse": "9a73e341175b756d",
+    "textures": [
+      "9a73e341175b756d",
+      "97a8e6e598acd710"
+    ],
+    "sampler_flags": [
+      2,
+      12
+    ],
+    "shader": "229afd5c6e8dc0ff42b1d7a4b0b45602",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3_fb_sand_wet2": {
+    "diffuse": "280604b9319fc7fe",
+    "textures": [
+      "280604b9319fc7fe",
+      "deae19d13cd57bb0",
+      "ecdd5fae2dad49ae",
+      "7ede850b5e9c73fb",
+      "4238945b4f48bdca",
+      "89e3c3168542df33",
+      "7ede850b5e9c73fb",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      16,
+      8,
+      12,
+      12,
+      8,
+      2,
+      3,
+      2
+    ],
+    "shader": "d8b8693e151e08d8563cec9746bcb3ca",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.36826184391975403,
+      0.3939179480075836,
+      0.47699981927871704
+    ]
+  },
+  "materials__cars3_fb_sand_wet": {
+    "diffuse": "cde52634dfa0d0ed",
+    "textures": [
+      "cde52634dfa0d0ed",
+      "deae19d13cd57bb0",
+      "59069d855ca2e90d",
+      "0d943451bb02be28",
+      "4238945b4f48bdca",
+      "89e3c3168542df33",
+      "7ede850b5e9c73fb",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      16,
+      8,
+      12,
+      12,
+      8,
+      2,
+      3,
+      2
+    ],
+    "shader": "d8b8693e151e08d8563cec9746bcb3ca",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.36717668175697327,
+      0.393233984708786,
+      0.4777342677116394
+    ]
+  },
+  "materials__cars3_fb_sand_tracks": {
+    "diffuse": "280604b9319fc7fe",
+    "textures": [
+      "280604b9319fc7fe",
+      "deae19d13cd57bb0",
+      "59069d855ca2e90d",
+      "0d943451bb02be28",
+      "f25d2a1fd2c8cbdc",
+      "a892de5c6b8a213b",
+      "78e52972bcf35ea3",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      16,
+      8,
+      12,
+      12,
+      8,
+      2,
+      3,
+      2
+    ],
+    "shader": "d8b8693e151e08d8563cec9746bcb3ca",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.8900054097175598,
+      0.9625029563903809,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_sand_tracks2": {
+    "diffuse": "280604b9319fc7fe",
+    "textures": [
+      "280604b9319fc7fe",
+      "deae19d13cd57bb0",
+      "f4184766c4ba4eba",
+      "009199474a2ec503",
+      "f25d2a1fd2c8cbdc",
+      "a892de5c6b8a213b",
+      "78e52972bcf35ea3",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      16,
+      16,
+      12,
+      12,
+      12,
+      2,
+      3,
+      2
+    ],
+    "shader": "d8b8693e151e08d8563cec9746bcb3ca",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.8900054097175598,
+      0.9625029563903809,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_billboards": {
+    "diffuse": "36c399e54a549752",
+    "textures": [
+      "36c399e54a549752",
+      "ab2cd83ec76f6e54",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_f500_beach_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_uni_swatches": {
+    "diffuse": "b6614d7f69a59fa3",
+    "textures": [
+      "b6614d7f69a59fa3",
+      "06225889183dfe79",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "88c83eaf81fab792644095902a2df658",
+    "owners": [
+      "cars3_f500_beach_ngn",
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_stadium_trk_b_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_sand_grass_driveable2": {
+    "diffuse": "913afbae9ebc59ea",
+    "textures": [
+      "913afbae9ebc59ea",
+      "deae19d13cd57bb0",
+      "f4184766c4ba4eba",
+      "009199474a2ec503",
+      "f19730285d1aeafd",
+      "d87d78df6c58af27",
+      "95eebb29917e0d53",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      16,
+      16,
+      12,
+      12,
+      12,
+      2,
+      3,
+      2
+    ],
+    "shader": "d8b8693e151e08d8563cec9746bcb3ca",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.7923684120178223,
+      0.8567224144935608,
+      0.8900054097175598
+    ]
+  },
+  "materials__cars3_fb_sand_wet2__multi_layersenabled_0": {
+    "diffuse": "280604b9319fc7fe",
+    "textures": [
+      "280604b9319fc7fe",
+      "4238945b4f48bdca",
+      "89e3c3168542df33",
+      "7ede850b5e9c73fb",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      12,
+      8,
+      2,
+      3,
+      2
+    ],
+    "shader": "9b5deed0bfbf32a1301b06fe6fd2cc3c",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.36826184391975403,
+      0.3939179480075836,
+      0.47699981927871704
+    ]
+  },
+  "materials__cars3_fb_sand_wet__multi_layersenabled_0": {
+    "diffuse": "cde52634dfa0d0ed",
+    "textures": [
+      "cde52634dfa0d0ed",
+      "4238945b4f48bdca",
+      "89e3c3168542df33",
+      "7ede850b5e9c73fb",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      12,
+      8,
+      2,
+      3,
+      2
+    ],
+    "shader": "9b5deed0bfbf32a1301b06fe6fd2cc3c",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.36717668175697327,
+      0.393233984708786,
+      0.4777342677116394
+    ]
+  },
+  "materials__cars3_fb_sand_tracks__multi_layersenabled_0": {
+    "diffuse": "280604b9319fc7fe",
+    "textures": [
+      "280604b9319fc7fe",
+      "f25d2a1fd2c8cbdc",
+      "a892de5c6b8a213b",
+      "78e52972bcf35ea3",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      12,
+      8,
+      2,
+      3,
+      2
+    ],
+    "shader": "9b5deed0bfbf32a1301b06fe6fd2cc3c",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.8900054097175598,
+      0.9625029563903809,
+      1.0
+    ]
+  },
+  "materials__cars3_fb_sand_tracks__multi_layersenabled_1": {
+    "diffuse": "280604b9319fc7fe",
+    "textures": [
+      "280604b9319fc7fe",
+      "deae19d13cd57bb0",
+      "59069d855ca2e90d",
+      "0d943451bb02be28",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      16,
+      8,
+      12,
+      3,
+      2
+    ],
+    "shader": "1d3ad28773fbd8d61ee31ec97b62d9be",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_sand_tracks2__multi_layersenabled_1": {
+    "diffuse": "280604b9319fc7fe",
+    "textures": [
+      "280604b9319fc7fe",
+      "deae19d13cd57bb0",
+      "f4184766c4ba4eba",
+      "009199474a2ec503",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      16,
+      16,
+      12,
+      3,
+      2
+    ],
+    "shader": "1d3ad28773fbd8d61ee31ec97b62d9be",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_sand_grass_driveable2__multi_layersenabled_0": {
+    "diffuse": "913afbae9ebc59ea",
+    "textures": [
+      "913afbae9ebc59ea",
+      "f19730285d1aeafd",
+      "d87d78df6c58af27",
+      "95eebb29917e0d53",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      12,
+      12,
+      2,
+      3,
+      2
+    ],
+    "shader": "9b5deed0bfbf32a1301b06fe6fd2cc3c",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.7923684120178223,
+      0.8567224144935608,
+      0.8900054097175598
+    ]
+  },
+  "materials__worlds__cars3_fla_sand_grass_driveable2__multi_layersenabled_1": {
+    "diffuse": "913afbae9ebc59ea",
+    "textures": [
+      "913afbae9ebc59ea",
+      "deae19d13cd57bb0",
+      "f4184766c4ba4eba",
+      "009199474a2ec503",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      16,
+      16,
+      12,
+      3,
+      2
+    ],
+    "shader": "1d3ad28773fbd8d61ee31ec97b62d9be",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_uni_squarefence__gpuinstancing_isenabled_true": {
+    "diffuse": "f570af32bfec20ab",
+    "textures": [
+      "f570af32bfec20ab",
+      "2dceef743dd25c73",
+      null
+    ],
+    "sampler_flags": [
+      16,
+      2,
+      3
+    ],
+    "shader": "daae8a4ff750c8399917b31c29f9b550",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_uni_barrier__gpuinstancing_isenabled_true": {
+    "diffuse": "c48a6536e2e3a0af",
+    "textures": [
+      "c48a6536e2e3a0af",
+      "f21d0cfe01b64958",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "44ff363f166c21e2ea93280ea9118252",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_uni_modes_banners_default__gpuinstancing_isenabled_true": {
+    "diffuse": "d38aa251f6bf6552",
+    "textures": [
+      "d38aa251f6bf6552",
+      "f871e8fe4b83e1fa",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "d8b5fb17d6def335a038f32dc5cd4906",
+    "owners": [
+      "cars3_f500_beach_ngn",
+      "cars3_f500_beach_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3_mode_grandstandmetalrail__gpuinstancing_isenabled_true": {
+    "diffuse": "d0714baed6491a63",
+    "textures": [
+      "d0714baed6491a63",
+      "e0034489c1c42c37",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "877497c6dbc952997759a329eea86062",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3_uni_metalgrndstnd__gpuinstancing_isenabled_true": {
+    "diffuse": "f99df8d73e2cbb01",
+    "textures": [
+      "f99df8d73e2cbb01",
+      "1e627b5acac37761",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4451340c7536da7e7d88a600b561ed0d",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_mr_5barmetal__gpuinstancing_isenabled_true": {
+    "diffuse": "1ab4286d68c59591",
+    "textures": [
+      "1ab4286d68c59591",
+      "5ac650c8384c0e8d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4451340c7536da7e7d88a600b561ed0d",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3_uni_metaldark__gpuinstancing_isenabled_true": {
+    "diffuse": "761337f0d6408432",
+    "textures": [
+      "761337f0d6408432",
+      "f2dfc8cfd88b8151",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "44ff363f166c21e2ea93280ea9118252",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.1395207792520523,
+      0.11958248168230057,
+      0.10811898112297058
+    ]
+  },
+  "unassigned__gpuinstancing_isenabled_true": {
+    "diffuse": "4b4d196096dae187",
+    "textures": [
+      "4b4d196096dae187",
+      "5ac650c8384c0e8d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4451340c7536da7e7d88a600b561ed0d",
+    "owners": [
+      "cars3_f500_beach_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_uni_metal_new__gpuinstancing_isenabled_true": {
+    "diffuse": "eb168357e5865780",
+    "textures": [
+      "eb168357e5865780",
+      "1881929bf76ce2c6",
+      "a33b165055344566",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "5c7d229fa13d3de718fc08e9eccef8f1",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      0.7542694211006165,
+      0.7542694211006165,
+      0.7542694211006165
+    ]
+  },
+  "materials__worlds__cars3_fla_paintedmetal2__gpuinstancing_isenabled_true": {
+    "diffuse": "6daea974f397c653",
+    "textures": [
+      "6daea974f397c653",
+      "8dba3b1032723875",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "f647c875c29b7e9919b071fb410bb45a",
+    "owners": [
+      "cars3_f500_beach_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.5386064648628235,
+      0.5386064648628235,
+      0.5386064648628235
+    ]
+  },
+  "materials__fx__cars3_fla_tracklights_fx__gpuinstancing_isenabled_true": {
+    "diffuse": "95cd78a18192f7ef",
+    "textures": [
+      "95cd78a18192f7ef",
+      "d1eb0605c0b7597c",
+      null,
+      "dff8037968f5e2d7"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "3c23773f3ba3070a309150dea3ae3a71",
+    "owners": [
+      "cars3_f500_beach_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__fx__cars3_fla_lightrays2__gpuinstancing_isenabled_true": {
+    "diffuse": "fae2cfa64671d806",
+    "textures": [
+      "fae2cfa64671d806",
+      null,
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      2,
+      3,
+      2
+    ],
+    "shader": "096b18eab6eb4f1389cfe896710a6d04",
+    "owners": [
+      "cars3_f500_beach_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.8971636295318604,
+      2.2604851722717285,
+      3.032701253890991
+    ]
+  },
+  "materials__fx__cars3_fla_lightrays_halfres__gpuinstancing_isenabled_true": {
+    "diffuse": "fae2cfa64671d806",
+    "textures": [
+      "fae2cfa64671d806",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      3
+    ],
+    "shader": "7280ae15862b441299550ed7856a2aee",
+    "owners": [
+      "cars3_f500_beach_ngn"
+    ],
+    "color": [
+      1.8971636295318604,
+      2.2604851722717285,
+      3.032701253890991
+    ]
+  },
+  "materials__worlds__cars3_fla_boxwood__gpuinstancing_isenabled_true": {
+    "diffuse": "a48b867ee319eed6",
+    "textures": [
+      "a48b867ee319eed6",
+      "1189e9d59e27d301",
+      null,
+      null,
+      "82b693687986ce15"
+    ],
+    "sampler_flags": [
+      12,
+      2,
+      3,
+      3,
+      2
+    ],
+    "shader": "5170aef00c389c4e1246ba6c1b608a1f",
+    "owners": [
+      "cars3_f500_beach_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.3494100272655487,
+      0.3494100272655487,
+      0.3494100272655487
+    ]
+  },
+  "materials__worlds__cars3_uni_modes_banners_defaultwindconstraintnoflatten__gpuinstancing_isenabled_true": {
+    "diffuse": null,
+    "textures": [
+      null,
+      "d38aa251f6bf6552",
+      "f871e8fe4b83e1fa",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "7c6cc90742354ac0e566bb6445bd06c0",
+    "owners": [
+      "cars3_f500_beach_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquarewall_white": {
+    "diffuse": "2dafb94145cc51a2",
+    "textures": [
+      "2dafb94145cc51a2",
+      "ed8b33a8292eedcf",
+      null,
+      "c22430a9c9179c59"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_stadium_trk_b_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "maya": {
+    "diffuse": "eff8c7e67f608bdc",
+    "textures": [
+      "eff8c7e67f608bdc",
+      "5ac650c8384c0e8d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn",
+      "cars3_fla_jump"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_sidewalk2": {
+    "diffuse": "ffa92689f18e6838",
+    "textures": [
+      "ffa92689f18e6838",
+      "f057e4ad060662f2",
+      "ed1291187a654ead",
+      null,
+      null,
+      "27db9e27f5a93fc9"
+    ],
+    "sampler_flags": [
+      10,
+      12,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "ede2e9b4c32361fa0d71e9984e9dd219",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      0.619137704372406,
+      0.5668449997901917
+    ]
+  },
+  "materials__worlds__cars3_fla_rumblesquares": {
+    "diffuse": "9dcf4253e2ce4950",
+    "textures": [
+      "9dcf4253e2ce4950",
+      "8d33d7c6943d4dde",
+      "858e3e1e3efac58c",
+      null,
+      "27db9e27f5a93fc9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "9446d2689dfafd27f05169b363323e73",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_stucco_dark_01": {
+    "diffuse": "ab128a821f681cf3",
+    "textures": [
+      "ab128a821f681cf3",
+      "f5c0f74d1b03e3f1",
+      "9a73e341175b756d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "4a7e18f142ad259f18ccc425d18d585f",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn"
+    ],
+    "color": [
+      0.7598256468772888,
+      0.8332309722900391,
+      0.9220290184020996
+    ]
+  },
+  "materials__worlds__cars3_fla_stucco_light_02": {
+    "diffuse": "34a5569a3bd18c25",
+    "textures": [
+      "34a5569a3bd18c25",
+      "ea2132ddbda72224",
+      "9a73e341175b756d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "4a7e18f142ad259f18ccc425d18d585f",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn"
+    ],
+    "color": [
+      0.3865196406841278,
+      0.3716752529144287,
+      0.3716752529144287
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_01": {
+    "diffuse": "bc350cb7da83f189",
+    "textures": [
+      "bc350cb7da83f189",
+      "05afed70e3fae69a",
+      "2ed9d7c285bf8839",
+      "5a24309899a4ae17",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "59ce68f2ab7c15017e9672c917fb0e35",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadium": {
+    "diffuse": null,
+    "textures": [
+      null,
+      "7ee4e9a1acfb6f31",
+      "465cde59302a4b7c",
+      "c638dc16830c288f",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      66,
+      14,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "da6efa4dec9b8353c5d15cec84b17533",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_stadium_trk_b_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "materials__worlds__cars3_fla_doorgarage_metal_grey": {
+    "diffuse": "84df65c47df96e65",
+    "textures": [
+      "84df65c47df96e65",
+      "45a7a8785fd39b81",
+      "a539854c5ebca647",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "5417f9a6af73547ca4b9df76ef820bcf",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_beachjump"
+    ],
+    "color": [
+      0.21841999888420105,
+      0.24126377701759338,
+      0.2629685699939728
+    ]
+  },
+  "materials__worlds__cars3_fla_paintedmetal2": {
+    "diffuse": "6daea974f397c653",
+    "textures": [
+      "6daea974f397c653",
+      "8dba3b1032723875",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_stadium_trk_b_ngn",
+      "cars3_f500_tunnel_ngn",
+      "car3_f500_scrollingarrow",
+      "cars3_f500_beachjump"
+    ],
+    "color": [
+      0.5386064648628235,
+      0.5386064648628235,
+      0.5386064648628235
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquaresgarage": {
+    "diffuse": "e9edc470c60c2a39",
+    "textures": [
+      "e9edc470c60c2a39",
+      "386c41da97a74e9c",
+      "527aabca308ae328",
+      null,
+      null,
+      "27db9e27f5a93fc9"
+    ],
+    "sampler_flags": [
+      2,
+      10,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "ede2e9b4c32361fa0d71e9984e9dd219",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_trexdeck": {
+    "diffuse": "9f4dbbded931a12a",
+    "textures": [
+      "9f4dbbded931a12a",
+      "7353f1bdd61ed292",
+      null,
+      "97ce9337b3d9b0b2",
+      "383f2bdf3bbecbe3"
+    ],
+    "sampler_flags": [
+      28,
+      2,
+      3,
+      2,
+      10
+    ],
+    "shader": "8fe47e09d9fca3628244a87600d7818a",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_mulch": {
+    "diffuse": "dedd904a5fff1586",
+    "textures": [
+      "dedd904a5fff1586",
+      "794d12c551dfbdc9",
+      null,
+      "c01927dd0b49fce8"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      0.805126965045929,
+      0.7099124789237976
+    ]
+  },
+  "materials__worlds__cars3_fla_stucco_light_01": {
+    "diffuse": "34a5569a3bd18c25",
+    "textures": [
+      "34a5569a3bd18c25",
+      "ea2132ddbda72224",
+      "9a73e341175b756d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "4a7e18f142ad259f18ccc425d18d585f",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn"
+    ],
+    "color": [
+      0.7598256468772888,
+      0.8332309722900391,
+      0.9220290184020996
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_e2": {
+    "diffuse": "1bb0d312aa90e5bc",
+    "textures": [
+      "1bb0d312aa90e5bc",
+      "465cde59302a4b7c",
+      null,
+      null,
+      "f136bd5c4dfd6624"
+    ],
+    "sampler_flags": [
+      32,
+      32,
+      3,
+      2,
+      2
+    ],
+    "shader": "00ed2e73a6e7a77b1d09bba6a3720102",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_skids": {
+    "diffuse": "3559b7a0f10f64f9",
+    "textures": [
+      "3559b7a0f10f64f9",
+      "b18d5db5d66ce3f6"
+    ],
+    "sampler_flags": [
+      12,
+      2
+    ],
+    "shader": "33c6d3718529ca937f8af17ab518cdff",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn",
+      "cars3_f500_beachjump",
+      "cars3_fla_jump"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "unassigned": {
+    "diffuse": "4b4d196096dae187",
+    "textures": [
+      "4b4d196096dae187",
+      "5ac650c8384c0e8d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_uni_smlgrandstandmetalbanner"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_asphaltlines__gpuinstancing_isenabled_true": {
+    "diffuse": "1d29520fe4b8e42b",
+    "textures": [
+      "1d29520fe4b8e42b",
+      "d25780422fa79b42"
+    ],
+    "sampler_flags": [
+      16,
+      2
+    ],
+    "shader": "ee6eab70736168ac8301ca7bbfa4363e",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_garage_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_grasss__gpuinstancing_isenabled_true": {
+    "diffuse": "d9eefba60bb05083",
+    "textures": [
+      "d9eefba60bb05083",
+      "ff541c8c3ee6e9bc",
+      "07b243d79ac9b81b",
+      null,
+      "13763fb6db289781",
+      "e6af68cfb5b2edbd"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "5a936a57c9f5c73d199be8c8d8e40b4a",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_stucco_light_02__gpuinstancing_isenabled_true": {
+    "diffuse": "34a5569a3bd18c25",
+    "textures": [
+      "34a5569a3bd18c25",
+      "ea2132ddbda72224",
+      "9a73e341175b756d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "5c7d229fa13d3de718fc08e9eccef8f1",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn"
+    ],
+    "color": [
+      0.3865196406841278,
+      0.3716752529144287,
+      0.3716752529144287
+    ]
+  },
+  "materials__worlds__cars3_fla_mulch__gpuinstancing_isenabled_true": {
+    "diffuse": "dedd904a5fff1586",
+    "textures": [
+      "dedd904a5fff1586",
+      "794d12c551dfbdc9",
+      null,
+      "c01927dd0b49fce8"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "f647c875c29b7e9919b071fb410bb45a",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn"
+    ],
+    "color": [
+      1.0,
+      0.805126965045929,
+      0.7099124789237976
+    ]
+  },
+  "materials__worlds__cars3_fla_whitewall2__gpuinstancing_isenabled_true": {
+    "diffuse": "95e536c9d2415f79",
+    "textures": [
+      "95e536c9d2415f79",
+      "d39ca549e94c9570",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "f647c875c29b7e9919b071fb410bb45a",
+    "owners": [
+      "cars3_f500_boardwalk_trk_b_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.9093917012214661,
+      0.9093917012214661,
+      0.9093917012214661
+    ]
+  },
+  "materials__worlds__cars3_uni_swatches__gpuinstancing_isenabled_true": {
+    "diffuse": "b6614d7f69a59fa3",
+    "textures": [
+      "b6614d7f69a59fa3",
+      "06225889183dfe79",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "44ff363f166c21e2ea93280ea9118252",
+    "owners": [
+      "cars3_f500_boats_trk_b_ngn",
+      "cars3_f500_boats_trk_b_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_fla_stadium_population_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_bg_yacht_spotcolor__gpuinstancing_isenabled_true": {
+    "diffuse": "605b5f5a42ebaff5",
+    "textures": [
+      "605b5f5a42ebaff5",
+      "4bb1adf6e349e708",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "877497c6dbc952997759a329eea86062",
+    "owners": [
+      "cars3_f500_boats_trk_b_ngn"
+    ],
+    "color": [
+      0.7542694211006165,
+      0.7542694211006165,
+      0.7542694211006165
+    ]
+  },
+  "materials__cars3__simpleeyes_white__gpuinstancing_isenabled_true": {
+    "diffuse": "801202686a4dc4dc",
+    "textures": [
+      "801202686a4dc4dc",
+      "63fc0fea65970a13",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "1f9d484a1855cd210b0782719ca6593a",
+    "owners": [
+      "cars3_f500_boats_trk_b_ngn"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "characters__cars3_crowd__materials__simpleeyes_boats__gpuinstancing_isenabled_true": {
+    "diffuse": "a998722958191fc3",
+    "textures": [
+      "a998722958191fc3",
+      "63fc0fea65970a13",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "1f9d484a1855cd210b0782719ca6593a",
+    "owners": [
+      "cars3_f500_boats_trk_b_ngn"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_concretebare_mod": {
+    "diffuse": "3f9900b08132f2bf",
+    "textures": [
+      "3f9900b08132f2bf",
+      "1e54cda26e57d3aa",
+      null,
+      "d334083d3f58c4b6",
+      "7edc2cce8163673c"
+    ],
+    "sampler_flags": [
+      28,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "8fe47e09d9fca3628244a87600d7818a",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquaresg_newtun": {
+    "diffuse": "e9edc470c60c2a39",
+    "textures": [
+      "e9edc470c60c2a39",
+      "386c41da97a74e9c",
+      "527aabca308ae328",
+      null,
+      "0fcbe39d186ef534",
+      "27db9e27f5a93fc9"
+    ],
+    "sampler_flags": [
+      2,
+      10,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "6ab2dc0fed7feac96b090b0c1158acaf",
+    "owners": [
+      "cars3_f500_fountain_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquarewallblue": {
+    "diffuse": "e9edc470c60c2a39",
+    "textures": [
+      "e9edc470c60c2a39",
+      "ed8b33a8292eedcf",
+      null,
+      "c22430a9c9179c59"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "61d7176e0fb0929f575749ef1a48f10e",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      0.002689295681193471,
+      0.22579289972782135,
+      0.5112061500549316
+    ]
+  },
+  "materials__worlds__cars3_fla_grate": {
+    "diffuse": "9603574aa3b713fd",
+    "textures": [
+      "9603574aa3b713fd",
+      "4d6b787498a7bfaf",
+      "94e5bad5df47ee94",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      8,
+      2,
+      3,
+      2
+    ],
+    "shader": "5417f9a6af73547ca4b9df76ef820bcf",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.7770377993583679,
+      0.7770377993583679,
+      0.7770377993583679
+    ]
+  },
+  "materials__worlds__cars3_uni_barrierpole": {
+    "diffuse": "ea655fdf9e2e19f9",
+    "textures": [
+      "ea655fdf9e2e19f9",
+      "90542b0765e4fc43",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_barrwhiteb"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquarewall_red": {
+    "diffuse": "e9edc470c60c2a39",
+    "textures": [
+      "e9edc470c60c2a39",
+      "ed8b33a8292eedcf",
+      null,
+      "c22430a9c9179c59"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_f500_fountain_ngn"
+    ],
+    "color": [
+      1.0,
+      0.2450285404920578,
+      0.2450285404920578
+    ]
+  },
+  "materials__worlds__cars3_fla_swatchesfountain_env": {
+    "diffuse": "b6614d7f69a59fa3",
+    "textures": [
+      "b6614d7f69a59fa3",
+      "06225889183dfe79",
+      null,
+      "7be0aa17960ae8c9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "8df50ef68398ba35905b1d33dffe0059",
+    "owners": [
+      "cars3_f500_fountain_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_lightrays": {
+    "diffuse": "fae2cfa64671d806",
+    "textures": [
+      "fae2cfa64671d806",
+      null
+    ],
+    "sampler_flags": [
+      12,
+      3
+    ],
+    "shader": "4c987581156beb1cd3a1864f637b14f2",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      0.9972336888313293,
+      0.885069727897644
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_e3": {
+    "diffuse": "1bb0d312aa90e5bc",
+    "textures": [
+      "1bb0d312aa90e5bc",
+      "19547da486e674c1",
+      null,
+      null,
+      "f136bd5c4dfd6624"
+    ],
+    "sampler_flags": [
+      32,
+      32,
+      3,
+      2,
+      2
+    ],
+    "shader": "bd1796b4f57d5ce88fca01048e334085",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_stadium_trk_b_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_glassfountain_e3": {
+    "diffuse": "1bb0d312aa90e5bc",
+    "textures": [
+      "1bb0d312aa90e5bc",
+      "19547da486e674c1",
+      null,
+      "7be0aa17960ae8c9",
+      "f136bd5c4dfd6624"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "f115ffe762396634c769951bc4280a95",
+    "owners": [
+      "cars3_f500_fountain_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_whitewall3": {
+    "diffuse": "95e536c9d2415f79",
+    "textures": [
+      "95e536c9d2415f79",
+      "d39ca549e94c9570",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      0.8818171620368958,
+      0.6990676522254944
+    ]
+  },
+  "materials__worlds__cars3_fla_500decal": {
+    "diffuse": "172ade578fc9bbea",
+    "textures": [
+      "172ade578fc9bbea",
+      "0da313ea7e511bcd"
+    ],
+    "sampler_flags": [
+      16,
+      2
+    ],
+    "shader": "33c6d3718529ca937f8af17ab518cdff",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.8002021908760071,
+      0.8002021908760071,
+      0.8002021908760071
+    ]
+  },
+  "materials__worlds__cars3_fla_caution": {
+    "diffuse": "7fdb1dd2a35d3026",
+    "textures": [
+      "7fdb1dd2a35d3026",
+      "64422112685ee4f1"
+    ],
+    "sampler_flags": [
+      2,
+      2
+    ],
+    "shader": "07a9d7636e42d74066c8550263078e64",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_garage_ngn",
+      "cars3_f500_beachjump"
+    ],
+    "color": [
+      0.6760101318359375,
+      0.5204707384109497,
+      0.7148140072822571
+    ]
+  },
+  "materials__worlds__cars3_fla_watterpuddles": {
+    "diffuse": null,
+    "textures": [
+      null,
+      "a620b4395bdc7dec",
+      "db3fcf5e101fdcea",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      66,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "a4090c730faac4a9f6d9cf513e02ed48",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_e": {
+    "diffuse": "1bb0d312aa90e5bc",
+    "textures": [
+      "1bb0d312aa90e5bc",
+      "465cde59302a4b7c",
+      null,
+      null,
+      "f136bd5c4dfd6624"
+    ],
+    "sampler_flags": [
+      32,
+      32,
+      3,
+      2,
+      2
+    ],
+    "shader": "00ed2e73a6e7a77b1d09bba6a3720102",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_bush2__gpuinstancing_isenabled_true": {
+    "diffuse": "97dac1f4f2a1d9cc",
+    "textures": [
+      "97dac1f4f2a1d9cc",
+      "a71e75d7e71cfe6e",
+      null,
+      null,
+      "82b693687986ce15"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      3,
+      2
+    ],
+    "shader": "5170aef00c389c4e1246ba6c1b608a1f",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.6920710802078247,
+      0.6920710802078247,
+      0.6920710802078247
+    ]
+  },
+  "materials__worlds__cars3_fla_bush__gpuinstancing_isenabled_true": {
+    "diffuse": "a5f4885365a1050f",
+    "textures": [
+      "a5f4885365a1050f",
+      "d8c5d26622968530",
+      null,
+      null,
+      "82b693687986ce15"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      3,
+      2
+    ],
+    "shader": "5170aef00c389c4e1246ba6c1b608a1f",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.6920710802078247,
+      0.6920710802078247,
+      0.6920710802078247
+    ]
+  },
+  "materials__worlds__cars3_fla_glass_dark_01__gpuinstancing_isenabled_true": {
+    "diffuse": "bc350cb7da83f189",
+    "textures": [
+      "bc350cb7da83f189",
+      "6462e0887b5ee74a",
+      "4876ee372d0920b6",
+      "ad389adf295f8c08",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ac693fe1b2f023965f2c75e65161266a",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.009974566288292408,
+      0.03843773901462555,
+      0.0782584697008133
+    ]
+  },
+  "materials__worlds__cars3_fla_palmbark_ogn__gpuinstancing_isenabled_true": {
+    "diffuse": "367f68a46d362093",
+    "textures": [
+      "367f68a46d362093",
+      "fa20914defdf6416",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4451340c7536da7e7d88a600b561ed0d",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_frailejon__gpuinstancing_isenabled_true": {
+    "diffuse": "b1811abaec790d6e",
+    "textures": [
+      "b1811abaec790d6e",
+      "4a17de461247fe28",
+      null,
+      null,
+      "82b693687986ce15"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      3,
+      2
+    ],
+    "shader": "5170aef00c389c4e1246ba6c1b608a1f",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.4673815667629242,
+      0.4673815667629242,
+      0.4673815667629242
+    ]
+  },
+  "materials__worlds__cars3_fla_marigold__gpuinstancing_isenabled_true": {
+    "diffuse": "14457ed916d07a76",
+    "textures": [
+      "14457ed916d07a76",
+      "9f87040d0a8c4275",
+      null,
+      null,
+      "82b693687986ce15"
+    ],
+    "sampler_flags": [
+      12,
+      2,
+      3,
+      3,
+      2
+    ],
+    "shader": "5170aef00c389c4e1246ba6c1b608a1f",
+    "owners": [
+      "cars3_f500_fountain_ngn"
+    ],
+    "color": [
+      0.7770377993583679,
+      0.7770377993583679,
+      0.7770377993583679
+    ]
+  },
+  "materials__worlds__cars3_fla_azalea__gpuinstancing_isenabled_true": {
+    "diffuse": "690a9923b08d886d",
+    "textures": [
+      "690a9923b08d886d",
+      "32ac92687c4abe57",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "daae8a4ff750c8399917b31c29f9b550",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      0.2629685699939728,
+      0.43396058678627014
+    ]
+  },
+  "materials__worlds__cars3_fla_birdofp__gpuinstancing_isenabled_true": {
+    "diffuse": "62acae02118ee5b8",
+    "textures": [
+      "62acae02118ee5b8",
+      "7f53f248736e4d5a",
+      null,
+      null,
+      "8dd7705882565484"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      3,
+      2
+    ],
+    "shader": "5170aef00c389c4e1246ba6c1b608a1f",
+    "owners": [
+      "cars3_f500_fountain_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.7208548188209534,
+      0.7208548188209534,
+      0.7208548188209534
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquarewall_red__gpuinstancing_isenabled_true": {
+    "diffuse": "e9edc470c60c2a39",
+    "textures": [
+      "e9edc470c60c2a39",
+      "ed8b33a8292eedcf",
+      null,
+      "c22430a9c9179c59"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "f647c875c29b7e9919b071fb410bb45a",
+    "owners": [
+      "cars3_f500_fountain_ngn"
+    ],
+    "color": [
+      1.0,
+      0.2450285404920578,
+      0.2450285404920578
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquaresg_new": {
+    "diffuse": "e9edc470c60c2a39",
+    "textures": [
+      "e9edc470c60c2a39",
+      "386c41da97a74e9c",
+      "527aabca308ae328",
+      null,
+      "4507eb7f3b39238f",
+      "27db9e27f5a93fc9"
+    ],
+    "sampler_flags": [
+      2,
+      10,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "6ab2dc0fed7feac96b090b0c1158acaf",
+    "owners": [
+      "cars3_f500_garage_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__shadowcaster": {
+    "diffuse": null,
+    "textures": [
+      null
+    ],
+    "sampler_flags": [
+      3
+    ],
+    "shader": "9bf23288daf8d4284d001525a2d853ac",
+    "owners": [
+      "cars3_f500_garage_ngn",
+      "cars3_f500_beachjump"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_caution__gpuinstancing_isenabled_true": {
+    "diffuse": "7fdb1dd2a35d3026",
+    "textures": [
+      "7fdb1dd2a35d3026",
+      "64422112685ee4f1"
+    ],
+    "sampler_flags": [
+      2,
+      2
+    ],
+    "shader": "ee6eab70736168ac8301ca7bbfa4363e",
+    "owners": [
+      "cars3_f500_garage_ngn"
+    ],
+    "color": [
+      0.6760101318359375,
+      0.5204707384109497,
+      0.7148140072822571
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquarewall__gpuinstancing_isenabled_true": {
+    "diffuse": "e9edc470c60c2a39",
+    "textures": [
+      "e9edc470c60c2a39",
+      "ed8b33a8292eedcf",
+      null,
+      "c22430a9c9179c59"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "f647c875c29b7e9919b071fb410bb45a",
+    "owners": [
+      "cars3_f500_garage_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_checker": {
+    "diffuse": null,
+    "textures": [
+      null,
+      "5d18cafea7006b7f",
+      "c79c17048b26a575",
+      null,
+      "27755c8a765ef883",
+      "13763fb6db289781"
+    ],
+    "sampler_flags": [
+      66,
+      2,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "0c9c89d62d19ade73b90785fd3b38df9",
+    "owners": [
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "materials__worlds__cars3_fla_scrolling": {
+    "diffuse": "1d365426a4467cb7",
+    "textures": [
+      "1d365426a4467cb7",
+      "5ac650c8384c0e8d",
+      null,
+      "20759ee7433fd03f"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "857473af91b6c775e7da7ba0024673ae",
+    "owners": [
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_billboards_e": {
+    "diffuse": "36c399e54a549752",
+    "textures": [
+      "36c399e54a549752",
+      "5ac650c8384c0e8d",
+      null,
+      "a59fc6914f72d8f0"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "857473af91b6c775e7da7ba0024673ae",
+    "owners": [
+      "cars3_f500_sidestadium_ngn",
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_ssdecal": {
+    "diffuse": "9e11e703f9cf5c7c",
+    "textures": [
+      "9e11e703f9cf5c7c"
+    ],
+    "sampler_flags": [
+      2
+    ],
+    "shader": "bc289c1827ff364812473194108b9c8d",
+    "owners": [
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint": {
+    "diffuse": "0039df812714b8ee",
+    "textures": [
+      "0039df812714b8ee",
+      "19547da486e674c1",
+      "1bb0d312aa90e5bc",
+      "c638dc16830c288f",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "59ce68f2ab7c15017e9672c917fb0e35",
+    "owners": [
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_scrolling2": {
+    "diffuse": "53d6d55725b46c24",
+    "textures": [
+      "53d6d55725b46c24",
+      "5ac650c8384c0e8d",
+      null,
+      "75f13f1436b8ed81"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "857473af91b6c775e7da7ba0024673ae",
+    "owners": [
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_doorgarage_metal_01": {
+    "diffuse": "84df65c47df96e65",
+    "textures": [
+      "84df65c47df96e65",
+      "45a7a8785fd39b81",
+      "a539854c5ebca647",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "5417f9a6af73547ca4b9df76ef820bcf",
+    "owners": [
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      0.07663131505250931,
+      0.2847056984901428,
+      0.6157909035682678
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_e4": {
+    "diffuse": "1bb0d312aa90e5bc",
+    "textures": [
+      "1bb0d312aa90e5bc",
+      "19547da486e674c1",
+      null,
+      null,
+      "f136bd5c4dfd6624"
+    ],
+    "sampler_flags": [
+      32,
+      32,
+      3,
+      2,
+      2
+    ],
+    "shader": "bd1796b4f57d5ce88fca01048e334085",
+    "owners": [
+      "cars3_f500_stadium_trk_b_ngn",
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_crowd": {
+    "diffuse": "f99faaff1dca85b2",
+    "textures": [
+      "f99faaff1dca85b2",
+      "3c18410ca8f11d0d",
+      "b9cda0e6efef71fb",
+      null,
+      null,
+      "e232cd67d4122c99",
+      "b9cda0e6efef71fb",
+      "7f52430437764624"
+    ],
+    "sampler_flags": [
+      2,
+      10,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "shader": "d38a839ea94496d60259588900465dea",
+    "owners": [
+      "cars3_f500_stadium_trk_b_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_asphaltjunk": {
+    "diffuse": "798c83cafbbc0301",
+    "textures": [
+      "798c83cafbbc0301",
+      "0a549cfe9a35cf41"
+    ],
+    "sampler_flags": [
+      12,
+      2
+    ],
+    "shader": "07a9d7636e42d74066c8550263078e64",
+    "owners": [
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_paintedmetal_env": {
+    "diffuse": "6daea974f397c653",
+    "textures": [
+      "6daea974f397c653",
+      "8dba3b1032723875",
+      "e670f631562d4bd9",
+      null,
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      10,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "ede2e9b4c32361fa0d71e9984e9dd219",
+    "owners": [
+      "cars3_f500_tunnel_ngn",
+      "car3_f500_scrollingarrow"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_03": {
+    "diffuse": "bc350cb7da83f189",
+    "textures": [
+      "bc350cb7da83f189",
+      "9a0e53fb3fe6d186",
+      "d39329d85fa9b1c3",
+      "ad27a30757008a33",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "59ce68f2ab7c15017e9672c917fb0e35",
+    "owners": [
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__proto_asphalt": {
+    "diffuse": "1f5e3268270ed5dd",
+    "textures": [
+      "1f5e3268270ed5dd",
+      "946cb553be6f0234",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_asphalt_tunnel": {
+    "diffuse": "a85fbfa529f2089a",
+    "textures": [
+      "a85fbfa529f2089a",
+      "adbfd392e4de9638",
+      "b5cccf007c319bca",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "9446d2689dfafd27f05169b363323e73",
+    "owners": [
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.4588906168937683,
+      0.4673815667629242,
+      0.4673815667629242
+    ]
+  },
+  "materials__fx__cars3_fla_lightrays2": {
+    "diffuse": "fae2cfa64671d806",
+    "textures": [
+      "fae2cfa64671d806",
+      null,
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      2,
+      3,
+      2
+    ],
+    "shader": "29f01efc15dbb862cfd5fa03bfdb8af1",
+    "owners": [
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.8971636295318604,
+      2.2604851722717285,
+      3.032701253890991
+    ]
+  },
+  "materials__worlds__stucco_rad_wall_gold2__gpuinstancing_isenabled_true": {
+    "diffuse": "68621018bb769fc9",
+    "textures": [
+      "68621018bb769fc9",
+      "9447473d8bbe5bf0",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "44ff363f166c21e2ea93280ea9118252",
+    "owners": [
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.8372370004653931,
+      0.6177712678909302,
+      0.3447019159793854
+    ]
+  },
+  "materials__worlds__cars3_fla_roofmetal_02__gpuinstancing_isenabled_true": {
+    "diffuse": "95a178849f626ea9",
+    "textures": [
+      "95a178849f626ea9",
+      "1738a4b76ef34246",
+      "d81d26f722928814",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "689bb65c8457e86a8096608b504b8c7b",
+    "owners": [
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.23921231925487518,
+      0.06002435460686684,
+      0.023534337058663368
+    ]
+  },
+  "materials__worlds__cars3_fla_doorgarage_metal_01__gpuinstancing_isenabled_true": {
+    "diffuse": "84df65c47df96e65",
+    "textures": [
+      "84df65c47df96e65",
+      "45a7a8785fd39b81",
+      "a539854c5ebca647",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "689bb65c8457e86a8096608b504b8c7b",
+    "owners": [
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.07663131505250931,
+      0.2847056984901428,
+      0.6157909035682678
+    ]
+  },
+  "materials__worlds__cars3_fla_concretebare_mod__gpuinstancing_isenabled_true": {
+    "diffuse": "3f9900b08132f2bf",
+    "textures": [
+      "3f9900b08132f2bf",
+      "1e54cda26e57d3aa",
+      null,
+      "d334083d3f58c4b6",
+      "7edc2cce8163673c"
+    ],
+    "sampler_flags": [
+      28,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "2647ac833ad83d2c9008bcdfae499015",
+    "owners": [
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_scrolling__gpuinstancing_isenabled_true": {
+    "diffuse": "1d365426a4467cb7",
+    "textures": [
+      "1d365426a4467cb7",
+      "5ac650c8384c0e8d",
+      null,
+      "20759ee7433fd03f"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "3c23773f3ba3070a309150dea3ae3a71",
+    "owners": [
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_concretebare__gpuinstancing_isenabled_true": {
+    "diffuse": "3f9900b08132f2bf",
+    "textures": [
+      "3f9900b08132f2bf",
+      "1e54cda26e57d3aa",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "f647c875c29b7e9919b071fb410bb45a",
+    "owners": [
+      "cars3_f500_tunnel_ngn",
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_paintedmetaltunnel_env__gpuinstancing_isenabled_true": {
+    "diffuse": "6daea974f397c653",
+    "textures": [
+      "6daea974f397c653",
+      "8dba3b1032723875",
+      "e670f631562d4bd9",
+      null,
+      "958b865777b1ecb7",
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      10,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "77eb5167771d9ad8a95df9ba9985dbcc",
+    "owners": [
+      "cars3_f500_tunnel_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_flo2": {
+    "diffuse": "95769451a53b6e54",
+    "textures": [
+      "95769451a53b6e54",
+      "8a887aac6613a474"
+    ],
+    "sampler_flags": [
+      16,
+      2
+    ],
+    "shader": "33c6d3718529ca937f8af17ab518cdff",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_flo": {
+    "diffuse": "456d744bbfec5730",
+    "textures": [
+      "456d744bbfec5730",
+      "8a887aac6613a474"
+    ],
+    "sampler_flags": [
+      16,
+      2
+    ],
+    "shader": "33c6d3718529ca937f8af17ab518cdff",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_uni_squarefence2": {
+    "diffuse": "4433d5f632206c8f",
+    "textures": [
+      "4433d5f632206c8f",
+      "801d55df46e292a1",
+      null
+    ],
+    "sampler_flags": [
+      16,
+      2,
+      3
+    ],
+    "shader": "0405843a0af2bd9939b49a6703535a88",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_asphaltblend": {
+    "diffuse": "b619e78a9be4443a",
+    "textures": [
+      "b619e78a9be4443a",
+      "7da825de70a7e626",
+      "0fab11151ea1c991",
+      "311728bf0c63eaf4",
+      "a85fbfa529f2089a",
+      "adbfd392e4de9638",
+      "311728bf0c63eaf4",
+      null,
+      "5e4c8ab9ae96d528"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "21dbe196bb04dcd5f45992bb1f548b5f",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.3800562918186188,
+      0.3800562918186188,
+      0.3800562918186188
+    ]
+  },
+  "materials__worlds__cars3_fla_grassblend": {
+    "diffuse": "d9eefba60bb05083",
+    "textures": [
+      "d9eefba60bb05083",
+      "ff541c8c3ee6e9bc",
+      "07b243d79ac9b81b",
+      null,
+      "b9f7519b24e5d8d3",
+      "e6af68cfb5b2edbd"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "1f0b464fe55689e9bc8ae2e6f80fcc5c",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_whitewall": {
+    "diffuse": "303c620e1cf430ac",
+    "textures": [
+      "303c620e1cf430ac",
+      "4b61be2ef36a3845",
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ae2fe9d21a738d903a09fb9cd354e158",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.115322545170784,
+      0.46277058124542236,
+      0.656658411026001
+    ]
+  },
+  "materials__fx__flr_lights_rays__gpuinstancing_isenabled_true": {
+    "diffuse": "9a73e341175b756d",
+    "textures": [
+      "9a73e341175b756d",
+      null,
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      2,
+      3,
+      2
+    ],
+    "shader": "096b18eab6eb4f1389cfe896710a6d04",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.009503250941634178,
+      0.03585666045546532,
+      0.17886750400066376
+    ]
+  },
+  "materials__cars3__metal_tko_doublelamp_dark__gpuinstancing_isenabled_true": {
+    "diffuse": "5ec4392a1f0c03fa",
+    "textures": [
+      "5ec4392a1f0c03fa",
+      "714c80b03d523751",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "44ff363f166c21e2ea93280ea9118252",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__fx__flr_lights_glo__gpuinstancing_isenabled_true": {
+    "diffuse": null,
+    "textures": [
+      null,
+      "9a73e341175b756d",
+      "c79c17048b26a575",
+      null,
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      66,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "fe4575c15e557564d6dc9965211fd092",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "materials__worlds__cars3_f500_tire_single__gpuinstancing_isenabled_true": {
+    "diffuse": "ee28687f2395dbda",
+    "textures": [
+      "ee28687f2395dbda",
+      "a4b645799eba8512",
+      "6f4cb67d596e7b6d",
+      null
+    ],
+    "sampler_flags": [
+      14,
+      14,
+      14,
+      3
+    ],
+    "shader": "5c7d229fa13d3de718fc08e9eccef8f1",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fir_tent__gpuinstancing_isenabled_true": {
+    "diffuse": "d4cc07a011ba9df6",
+    "textures": [
+      "d4cc07a011ba9df6",
+      "3d5c320f07e4b127",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "d8b5fb17d6def335a038f32dc5cd4906",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.6038273572921753,
+      0.6038273572921753,
+      0.6038273572921753
+    ]
+  },
+  "materials__worlds__cars3_tv_metalpaint_rust_white__gpuinstancing_isenabled_true": {
+    "diffuse": "660d0620b1371a1f",
+    "textures": [
+      "660d0620b1371a1f",
+      "4ad1c109814591ea",
+      "fa2df6e519f6fc95",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "5c7d229fa13d3de718fc08e9eccef8f1",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.450490266084671,
+      0.450490266084671,
+      0.450490266084671
+    ]
+  },
+  "materials__cars3__metal_tko_roof_white01__gpuinstancing_isenabled_true": {
+    "diffuse": "66889b3744618d06",
+    "textures": [
+      "66889b3744618d06",
+      "3de69839fc6224b9",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "44ff363f166c21e2ea93280ea9118252",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.05805344879627228,
+      0.05805344879627228,
+      0.05805344879627228
+    ]
+  },
+  "materials__cars3__conc_tko_smallgrandstand__gpuinstancing_isenabled_true": {
+    "diffuse": "1b97c54099b57107",
+    "textures": [
+      "1b97c54099b57107",
+      "9e870e9ee76de00f",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "44ff363f166c21e2ea93280ea9118252",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_buildingnumbers__gpuinstancing_isenabled_true": {
+    "diffuse": "1d300f0ca274e148",
+    "textures": [
+      "1d300f0ca274e148",
+      "8d45fa6f6a5df7ec",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4451340c7536da7e7d88a600b561ed0d",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.3529187738895416,
+      0.38491711020469666,
+      0.40197819471359253
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint__gpuinstancing_isenabled_true": {
+    "diffuse": "0039df812714b8ee",
+    "textures": [
+      "0039df812714b8ee",
+      "19547da486e674c1",
+      "1bb0d312aa90e5bc",
+      "c638dc16830c288f",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "ac693fe1b2f023965f2c75e65161266a",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_e4__gpuinstancing_isenabled_true": {
+    "diffuse": "1bb0d312aa90e5bc",
+    "textures": [
+      "1bb0d312aa90e5bc",
+      "19547da486e674c1",
+      null,
+      null,
+      "f136bd5c4dfd6624"
+    ],
+    "sampler_flags": [
+      32,
+      32,
+      3,
+      2,
+      2
+    ],
+    "shader": "4699817cbeeda38d126bdc7289d8d6ff",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumt_ogn__gpuinstancing_isenabled_true": {
+    "diffuse": "1bb0d312aa90e5bc",
+    "textures": [
+      "1bb0d312aa90e5bc",
+      "19547da486e674c1",
+      "c638dc16830c288f",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "5c7d229fa13d3de718fc08e9eccef8f1",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_concretesquarewallblue__gpuinstancing_isenabled_true": {
+    "diffuse": "e9edc470c60c2a39",
+    "textures": [
+      "e9edc470c60c2a39",
+      "ed8b33a8292eedcf",
+      null,
+      "c22430a9c9179c59"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "0a28c35b2fd67bb0923a4c46ed2ed7ad",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.002689295681193471,
+      0.22579289972782135,
+      0.5112061500549316
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_e4_ogn__gpuinstancing_isenabled_true": {
+    "diffuse": "1bb0d312aa90e5bc",
+    "textures": [
+      "1bb0d312aa90e5bc",
+      "19547da486e674c1",
+      null,
+      "f136bd5c4dfd6624"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "3c23773f3ba3070a309150dea3ae3a71",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_paintedmetal_env__gpuinstancing_isenabled_true": {
+    "diffuse": "6daea974f397c653",
+    "textures": [
+      "6daea974f397c653",
+      "8dba3b1032723875",
+      "e670f631562d4bd9",
+      null,
+      null,
+      "3bd202abd9e4ceb9"
+    ],
+    "sampler_flags": [
+      2,
+      10,
+      2,
+      3,
+      2,
+      2
+    ],
+    "shader": "f01d5cc0260ebefccf6b516a4a2a8f01",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadiumtint_e3__gpuinstancing_isenabled_true": {
+    "diffuse": "1bb0d312aa90e5bc",
+    "textures": [
+      "1bb0d312aa90e5bc",
+      "19547da486e674c1",
+      null,
+      null,
+      "f136bd5c4dfd6624"
+    ],
+    "sampler_flags": [
+      32,
+      32,
+      3,
+      2,
+      2
+    ],
+    "shader": "4699817cbeeda38d126bdc7289d8d6ff",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_fla_glassstadium__gpuinstancing_isenabled_true": {
+    "diffuse": null,
+    "textures": [
+      null,
+      "7ee4e9a1acfb6f31",
+      "465cde59302a4b7c",
+      "c638dc16830c288f",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      66,
+      14,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "0e7308e44c6014ce931a9c7f018f77b0",
+    "owners": [
+      "cars3_fla_stadium_population_ngn"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "materials__worlds__cars3_scrolling_arrow_sign": {
+    "diffuse": "f256caecc5bb1b22",
+    "textures": [
+      "f256caecc5bb1b22",
+      "b3ed28623fbc0690",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "158f9e76d4dc5d5f0d01b2290add9d60",
+    "owners": [
+      "car3_f500_scrollingarrow"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__tko_flashingarrows_glow_ogn": {
+    "diffuse": "ed51ed7b21bb202e",
+    "textures": [
+      "ed51ed7b21bb202e",
+      "ed51ed7b21bb202e"
+    ],
+    "sampler_flags": [
+      2,
+      2
+    ],
+    "shader": "4823509c41071a2e4739ffd74a408036",
+    "owners": [
+      "car3_f500_scrollingarrow"
+    ],
+    "color": [
+      0.0013578870566561818,
+      5.290479748509824e-05,
+      5.290479748509824e-05
+    ]
+  },
+  "materials__worlds__tko_flashingarrows_glow_bg": {
+    "diffuse": "446af1a55c36433d",
+    "textures": [
+      "446af1a55c36433d",
+      null,
+      "ed51ed7b21bb202e"
+    ],
+    "sampler_flags": [
+      2,
+      3,
+      2
+    ],
+    "shader": "abfd64e756de9b48eed838c1be09e30e",
+    "owners": [
+      "car3_f500_scrollingarrow"
+    ],
+    "color": [
+      0.0013578870566561818,
+      5.290479748509824e-05,
+      5.290479748509824e-05
+    ]
+  },
+  "materials__worlds__cars3_uni_chainlinkfence2": {
+    "diffuse": "a62a5367aa9987eb",
+    "textures": [
+      "a62a5367aa9987eb",
+      "a785e43d2fb13d4a",
+      null
+    ],
+    "sampler_flags": [
+      16,
+      2,
+      3
+    ],
+    "shader": "0405843a0af2bd9939b49a6703535a88",
+    "owners": [
+      "cars3_f500_barrwhiteb"
+    ],
+    "color": [
+      0.7874122262001038,
+      0.7874122262001038,
+      0.7874122262001038
+    ]
+  },
+  "materials__worlds__cars3_fla_barrierwhite": {
+    "diffuse": "e69f8f0599c3a651",
+    "textures": [
+      "e69f8f0599c3a651",
+      "72030f68c81cb1d1",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_f500_barrwhiteb"
+    ],
+    "color": [
+      0.4479883909225464,
+      0.4479883909225464,
+      0.4479883909225464
+    ]
+  },
+  "materials__worlds__cars3_uni_modes_banners_default": {
+    "diffuse": "d38aa251f6bf6552",
+    "textures": [
+      "d38aa251f6bf6552",
+      "f871e8fe4b83e1fa",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "3991f210b4282015f8243303944d17c6",
+    "owners": [
+      "cars3_f500_beachjump",
+      "cars3_uni_mode_startgate",
+      "cars3_uni_mode_startgatel_b",
+      "cars3_uni_mode_startgater_b",
+      "cars3_uni_smlgrandstandmetalbanner"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_mr_5barmetalrust": {
+    "diffuse": "879df5f33a4649c7",
+    "textures": [
+      "879df5f33a4649c7",
+      "0fe373e0a93d0fcc",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_f500_beachjump",
+      "cars3_fla_jump"
+    ],
+    "color": [
+      0.2569063603878021,
+      0.2053893506526947,
+      0.2053893506526947
+    ]
+  },
+  "materials__worlds__cars3_pgd_rampedge": {
+    "diffuse": "faea01610fb50dcf",
+    "textures": [
+      "faea01610fb50dcf",
+      "00ea98e3fb235416",
+      "adcc876f380f4da4",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "6cde07e9c11ed7894e077144be8309aa",
+    "owners": [
+      "cars3_f500_beachjump",
+      "cars3_fla_jump"
+    ],
+    "color": [
+      0.450490266084671,
+      0.450490266084671,
+      0.450490266084671
+    ]
+  },
+  "materials__worlds__cars3_crowd_combine_low_pivotanim": {
+    "diffuse": "65465b3a7fa1508c",
+    "textures": [
+      "65465b3a7fa1508c",
+      "a65f686cc126a4a0",
+      "12488a790af95018",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "e4cf9a544afa2521413443b02ccc0d0a",
+    "owners": [
+      "cars3_uni_ambchar_mult_06_fans_low",
+      "cars3_uni_grandstand_far"
+    ],
+    "color": [
+      3.5199999809265137,
+      0.0,
+      0.0
+    ]
+  },
+  "materials__fx__stnt_driftstrip_blueglow2": {
+    "diffuse": "75bc0739bab30e46",
+    "textures": [
+      "75bc0739bab30e46",
+      "5ac650c8384c0e8d",
+      null,
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "a30fcfc3115b2a3c28f776d6a2822c97",
+    "owners": [
+      "cars3_uni_driftstrip_single_b",
+      "cars3_uni_strip_backwardsdrive_b",
+      "cars3_uni_strip_twowheel_b"
+    ],
+    "color": [
+      0.2450285404920578,
+      0.5413759350776672,
+      1.0
+    ]
+  },
+  "materials__fx__stnt_driftstrip_blueglow": {
+    "diffuse": "75bc0739bab30e46",
+    "textures": [
+      "75bc0739bab30e46",
+      "5ac650c8384c0e8d",
+      null,
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "a30fcfc3115b2a3c28f776d6a2822c97",
+    "owners": [
+      "cars3_uni_driftstrip_single_b",
+      "cars3_uni_strip_backwardsdrive_b",
+      "cars3_uni_strip_twowheel_b"
+    ],
+    "color": [
+      0.04709842428565025,
+      0.30434900522232056,
+      1.0
+    ]
+  },
+  "materials__fx__stnt_driftstrip_black": {
+    "diffuse": "75bc0739bab30e46",
+    "textures": [
+      "75bc0739bab30e46",
+      "5ac650c8384c0e8d",
+      null,
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "a30fcfc3115b2a3c28f776d6a2822c97",
+    "owners": [
+      "cars3_uni_driftstrip_single_b",
+      "cars3_uni_strip_backwardsdrive_b",
+      "cars3_uni_strip_twowheel_b"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "materials__cars3_uni_metaldark": {
+    "diffuse": "761337f0d6408432",
+    "textures": [
+      "761337f0d6408432",
+      "f2dfc8cfd88b8151",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "88c83eaf81fab792644095902a2df658",
+    "owners": [
+      "cars3_uni_mode_startgate",
+      "cars3_uni_mode_startgatel_b",
+      "cars3_uni_mode_startgater_b",
+      "cars3_uni_smlgrandstandmetalbanner"
+    ],
+    "color": [
+      0.1395207792520523,
+      0.11958248168230057,
+      0.10811898112297058
+    ]
+  },
+  "materials__worlds__cars3_uni_metal_new": {
+    "diffuse": "eb168357e5865780",
+    "textures": [
+      "eb168357e5865780",
+      "1881929bf76ce2c6",
+      "a33b165055344566",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      2,
+      3
+    ],
+    "shader": "4a7e18f142ad259f18ccc425d18d585f",
+    "owners": [
+      "cars3_uni_mode_startgate",
+      "cars3_uni_mode_startgatel_b",
+      "cars3_uni_mode_startgater_b"
+    ],
+    "color": [
+      0.7542694211006165,
+      0.7542694211006165,
+      0.7542694211006165
+    ]
+  },
+  "materials__cars3_metal_uni": {
+    "diffuse": "dd385a6be5c62632",
+    "textures": [
+      "dd385a6be5c62632",
+      "c4a87a1f2ffbd6be",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_uni_mode_startgate"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3_mode_startgateled": {
+    "diffuse": "be68022c2d9203e0",
+    "textures": [
+      "be68022c2d9203e0",
+      "caa08493b36c516e",
+      null,
+      null,
+      "270faa9435d078eb"
+    ],
+    "sampler_flags": [
+      32,
+      32,
+      3,
+      2,
+      2
+    ],
+    "shader": "bd1796b4f57d5ce88fca01048e334085",
+    "owners": [
+      "cars3_uni_mode_startgate"
+    ],
+    "color": [
+      1.0,
+      0.9347659349441528,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_uni_startgatescrolling": {
+    "diffuse": "69c9310c8646c372",
+    "textures": [
+      "69c9310c8646c372",
+      "4e9b541f1c43a99f",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "88c83eaf81fab792644095902a2df658",
+    "owners": [
+      "cars3_uni_mode_startgate"
+    ],
+    "color": [
+      0.9778419137001038,
+      0.9559729695320129,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_uni_startgatescrollingglow": {
+    "diffuse": "5af0d8ee63983e23",
+    "textures": [
+      "5af0d8ee63983e23",
+      null,
+      "5af0d8ee63983e23"
+    ],
+    "sampler_flags": [
+      2,
+      3,
+      2
+    ],
+    "shader": "b025d2fc312396f722ca9a622f6f81c1",
+    "owners": [
+      "cars3_uni_mode_startgate"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "materials__worlds__cars_barrelmetal": {
+    "diffuse": "f437cf004693e568",
+    "textures": [
+      "f437cf004693e568",
+      "b8a555956ef0437f",
+      null,
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "shader": "676363f4373bbf92d6bed7c137fc1c6b",
+    "owners": [
+      "cars3_uni_mode_startgatel_b",
+      "cars3_uni_mode_startgater_b"
+    ],
+    "color": [
+      0.22782357037067413,
+      0.22782357037067413,
+      0.22782357037067413
+    ]
+  },
+  "materials__cars3_uni_metalwhite": {
+    "diffuse": "75bc0739bab30e46",
+    "textures": [
+      "75bc0739bab30e46",
+      "36e4ac17191693c4",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_uni_mode_startgatel_b",
+      "cars3_uni_mode_startgater_b"
+    ],
+    "color": [
+      0.4934012293815613,
+      0.4934012293815613,
+      0.4934012293815613
+    ]
+  },
+  "materials__cars3_uni_hologrey": {
+    "diffuse": "9f0c27127a748835",
+    "textures": [
+      "9f0c27127a748835",
+      "36e4ac17191693c4",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_uni_mode_startgatel_b",
+      "cars3_uni_mode_startgater_b"
+    ],
+    "color": [
+      0.1661737561225891,
+      0.1661737561225891,
+      0.1661737561225891
+    ]
+  },
+  "materials__fx__blue_plastic": {
+    "diffuse": "ba49a3943b74fa9b",
+    "textures": [
+      "ba49a3943b74fa9b",
+      "90dd39bac9850445",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_uni_mode_startgatel_b",
+      "cars3_uni_mode_startgater_b"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3_mode_grandstandmetalrail": {
+    "diffuse": "d0714baed6491a63",
+    "textures": [
+      "d0714baed6491a63",
+      "e0034489c1c42c37",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "87c4ca4338950591a0099e53b07a4e41",
+    "owners": [
+      "cars3_uni_smlgrandstandmetalbanner"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3_uni_metalgrndstnd": {
+    "diffuse": "f99df8d73e2cbb01",
+    "textures": [
+      "f99df8d73e2cbb01",
+      "1e627b5acac37761",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_uni_smlgrandstandmetalbanner"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__worlds__cars3_mr_5barmetal": {
+    "diffuse": "1ab4286d68c59591",
+    "textures": [
+      "1ab4286d68c59591",
+      "5ac650c8384c0e8d",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      2,
+      3
+    ],
+    "shader": "4bcb5ce653186b6c065744b06dc81336",
+    "owners": [
+      "cars3_uni_smlgrandstandmetalbanner"
+    ],
+    "color": [
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "materials__cars3_fla_moon_glow": {
+    "diffuse": "ad389adf295f8c08",
+    "textures": [
+      "ad389adf295f8c08"
+    ],
+    "sampler_flags": [
+      2
+    ],
+    "shader": "ecd260d2d8f0ac7f6af8138607bd07fb",
+    "owners": [
+      "rlm_cars3_fla_stadium"
+    ],
+    "color": [
+      0.04254656285047531,
+      0.20779287815093994,
+      0.4098403751850128
+    ],
+    "sky": true,
+    "alpha": 1.0
+  },
+  "materials__cars3_fla_moon": {
+    "diffuse": "16eed95065ab31ac",
+    "textures": [
+      "16eed95065ab31ac",
+      null
+    ],
+    "sampler_flags": [
+      2,
+      3
+    ],
+    "shader": "3328eb67eb6b3711c3180700fd22a208",
+    "owners": [
+      "rlm_cars3_fla_stadium"
+    ],
+    "color": [
+      59.41585159301758,
+      98.22319030761719,
+      223.82627868652344
+    ],
+    "sky": true,
+    "alpha": 1.0
+  },
+  "materials__cars3_fla_far_clouds_night": {
+    "diffuse": "b509d2acf798b101",
+    "textures": [
+      "b509d2acf798b101",
+      "8cb160732cd9ff60"
+    ],
+    "sampler_flags": [
+      8,
+      2
+    ],
+    "shader": "0cb16122311e83ebe44bc4d4bfed2332",
+    "owners": [
+      "rlm_cars3_fla_stadium"
+    ],
+    "color": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "sky": true,
+    "alpha": 1.0
+  },
+  "materials__worlds__cars3_arz_sky_sunset_light": {
+    "diffuse": "9a73e341175b756d",
+    "textures": [
+      "9a73e341175b756d",
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      2,
+      2
+    ],
+    "shader": "cb73c3eb14eefb9f7fff45ff1a5b0997",
+    "owners": [
+      "rlm_cars3_fla_stadium"
+    ],
+    "color": [
+      1.0,
+      0.05189158394932747,
+      0.0
+    ],
+    "sky": true,
+    "alpha": 0.7403251528739929
+  },
+  "materials__cars3_fla_skycolor_night_3": {
+    "diffuse": "9a73e341175b756d",
+    "textures": [
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      2
+    ],
+    "shader": "020112a1c5501a2972f852ac35179f6b",
+    "owners": [
+      "rlm_cars3_fla_stadium"
+    ],
+    "color": [
+      0.4759634733200073,
+      0.1393946260213852,
+      0.0484965480864048
+    ],
+    "sky": true,
+    "alpha": 1.0
+  },
+  "materials__cars3_fla_clouds_night": {
+    "diffuse": "fce6f449538805cd",
+    "textures": [
+      "fce6f449538805cd",
+      "4b086282b5682f76",
+      "8cb160732cd9ff60"
+    ],
+    "sampler_flags": [
+      2,
+      8,
+      2
+    ],
+    "shader": "16a71449b5a7fb2d22a4cb97246ace47",
+    "owners": [
+      "rlm_cars3_fla_stadium"
+    ],
+    "color": [
+      0.05223730206489563,
+      0.05142183601856232,
+      0.06675508618354797
+    ],
+    "sky": true,
+    "alpha": 0.6800000071525574
+  },
+  "materials__cars3_fla_skycolor_night_2": {
+    "diffuse": "9a73e341175b756d",
+    "textures": [
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      2
+    ],
+    "shader": "020112a1c5501a2972f852ac35179f6b",
+    "owners": [
+      "rlm_cars3_fla_stadium"
+    ],
+    "color": [
+      0.028547998517751694,
+      0.0794224813580513,
+      0.15250809490680695
+    ],
+    "sky": true,
+    "alpha": 1.0
+  },
+  "materials__cars3_fla_skycolor_night_1": {
+    "diffuse": "9a73e341175b756d",
+    "textures": [
+      "9a73e341175b756d"
+    ],
+    "sampler_flags": [
+      2
+    ],
+    "shader": "020112a1c5501a2972f852ac35179f6b",
+    "owners": [
+      "rlm_cars3_fla_stadium"
+    ],
+    "color": [
+      0.0012387692695483565,
+      0.002347221365198493,
+      0.020079806447029114
+    ],
+    "sky": true,
+    "alpha": 1.0
+  }
+}

@@ -1,0 +1,1538 @@
+[
+ {
+  "mode": "game",
+  "cars3_port": 1,
+  "template": "car_body",
+  "index": 0,
+  "cars2_name": "BackEnd",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 2,
+  "template": "car_body",
+  "index": 1,
+  "cars2_name": "BackTires",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 12,
+  "template": "car_body",
+  "index": 2,
+  "cars2_name": "BLeft_bttm",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 14,
+  "template": "car_body",
+  "index": 3,
+  "cars2_name": "BLeft_Center",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 16,
+  "template": "car_body",
+  "index": 4,
+  "cars2_name": "Body2",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 17,
+  "template": "car_body",
+  "index": 5,
+  "cars2_name": "Body3",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 18,
+  "template": "car_body",
+  "index": 6,
+  "cars2_name": "Body_Baxle",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 20,
+  "template": "car_body",
+  "index": 7,
+  "cars2_name": "Body",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 22,
+  "template": "car_body",
+  "index": 8,
+  "cars2_name": "BRight_bttm",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 24,
+  "template": "car_body",
+  "index": 9,
+  "cars2_name": "BRight_Center",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 25,
+  "template": "car_facial",
+  "index": 0,
+  "cars2_name": "BrowCenter",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 26,
+  "template": "car_facial",
+  "index": 1,
+  "cars2_name": "BrowCornerLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 27,
+  "template": "car_facial",
+  "index": 2,
+  "cars2_name": "BrowCornerRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 28,
+  "template": "car_facial",
+  "index": 3,
+  "cars2_name": "BrowMidLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 29,
+  "template": "car_facial",
+  "index": 4,
+  "cars2_name": "BrowMidRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 30,
+  "template": "car_facial",
+  "index": 5,
+  "cars2_name": "CheekLowerLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 31,
+  "template": "car_facial",
+  "index": 6,
+  "cars2_name": "CheekLowerRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 32,
+  "template": "car_facial",
+  "index": 7,
+  "cars2_name": "CheekUpperLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 33,
+  "template": "car_facial",
+  "index": 8,
+  "cars2_name": "CheekUpperRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 49,
+  "template": "car_facial",
+  "index": 9,
+  "cars2_name": "Eyes_Ctrl/BTM_CNTR_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 50,
+  "template": "car_facial",
+  "index": 10,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Bow",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 51,
+  "template": "car_facial",
+  "index": 11,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Bow_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 52,
+  "template": "car_facial",
+  "index": 12,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Bow_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 53,
+  "template": "car_facial",
+  "index": 13,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Edge",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 54,
+  "template": "car_facial",
+  "index": 14,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Edge_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 55,
+  "template": "car_facial",
+  "index": 15,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 56,
+  "template": "car_facial",
+  "index": 16,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Notch_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 57,
+  "template": "car_facial",
+  "index": 17,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Bow",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 58,
+  "template": "car_facial",
+  "index": 18,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Bow_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 59,
+  "template": "car_facial",
+  "index": 19,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Bow_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 60,
+  "template": "car_facial",
+  "index": 20,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Edge",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 61,
+  "template": "car_facial",
+  "index": 21,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Edge_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 62,
+  "template": "car_facial",
+  "index": 22,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 63,
+  "template": "car_facial",
+  "index": 23,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Notch_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 64,
+  "template": "car_facial",
+  "index": 24,
+  "cars2_name": "Eyes_Ctrl/EyeLeft",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 65,
+  "template": "car_facial",
+  "index": 25,
+  "cars2_name": "Eyes_Ctrl/EyeLeftVertical",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 66,
+  "template": "car_facial",
+  "index": 26,
+  "cars2_name": "Eyes_Ctrl/EyeRight",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 67,
+  "template": "car_facial",
+  "index": 29,
+  "cars2_name": "Eyes_Ctrl/TOP_CNTR_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 68,
+  "template": "car_facial",
+  "index": 30,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Bow",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 69,
+  "template": "car_facial",
+  "index": 31,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Bow_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 70,
+  "template": "car_facial",
+  "index": 32,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Bow_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 71,
+  "template": "car_facial",
+  "index": 33,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Edge",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 72,
+  "template": "car_facial",
+  "index": 34,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Edge_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 73,
+  "template": "car_facial",
+  "index": 35,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 74,
+  "template": "car_facial",
+  "index": 36,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Notch_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 75,
+  "template": "car_facial",
+  "index": 37,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Notch_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 76,
+  "template": "car_facial",
+  "index": 38,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Bow",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 77,
+  "template": "car_facial",
+  "index": 39,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Bow_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 78,
+  "template": "car_facial",
+  "index": 40,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Bow_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 79,
+  "template": "car_facial",
+  "index": 41,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Edge",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 80,
+  "template": "car_facial",
+  "index": 42,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Edge_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 81,
+  "template": "car_facial",
+  "index": 43,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 82,
+  "template": "car_facial",
+  "index": 44,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Notch_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 83,
+  "template": "car_facial",
+  "index": 45,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Notch_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 84,
+  "template": "car_facial",
+  "index": 46,
+  "cars2_name": "Eyes",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 86,
+  "template": "car_body",
+  "index": 10,
+  "cars2_name": "FLeft_bttm",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 88,
+  "template": "car_body",
+  "index": 11,
+  "cars2_name": "FLeft_Center",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 92,
+  "template": "car_body",
+  "index": 12,
+  "cars2_name": "FRight_bttm",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 94,
+  "template": "car_body",
+  "index": 13,
+  "cars2_name": "FRight_Center",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 95,
+  "template": "car_body",
+  "index": 14,
+  "cars2_name": "FrontEnd",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 96,
+  "template": "car_body",
+  "index": 15,
+  "cars2_name": "FrontTires",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 107,
+  "template": "car_body",
+  "index": 20,
+  "cars2_name": "FX_Marker_Exhaust_Left1",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 108,
+  "template": "car_body",
+  "index": 21,
+  "cars2_name": "FX_Marker_Exhaust_Left2",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 109,
+  "template": "car_body",
+  "index": 22,
+  "cars2_name": "FX_Marker_Exhaust_Right1",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 110,
+  "template": "car_body",
+  "index": 23,
+  "cars2_name": "FX_Marker_Exhaust_Right2",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 111,
+  "template": "car_body",
+  "index": 24,
+  "cars2_name": "FX_Marker_Headlight_Left",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 112,
+  "template": "car_body",
+  "index": 25,
+  "cars2_name": "FX_Marker_Headlight_Right",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 113,
+  "template": "car_body",
+  "index": 26,
+  "cars2_name": "FX_Marker_MachineGun_Left",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 114,
+  "template": "car_body",
+  "index": 27,
+  "cars2_name": "FX_Marker_MachineGun_Right",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 123,
+  "template": "car_body",
+  "index": 29,
+  "cars2_name": "FX_Marker_SpareTire",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 129,
+  "template": "car_facial",
+  "index": 47,
+  "cars2_name": "Jaw",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 131,
+  "template": "car_facial",
+  "index": 48,
+  "cars2_name": "LipLowerCenter",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 132,
+  "template": "car_facial",
+  "index": 49,
+  "cars2_name": "LipLowerCornerLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 133,
+  "template": "car_facial",
+  "index": 50,
+  "cars2_name": "LipLowerCornerRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 134,
+  "template": "car_facial",
+  "index": 51,
+  "cars2_name": "LipLowerMidLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 135,
+  "template": "car_facial",
+  "index": 52,
+  "cars2_name": "LipLowerMidRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 136,
+  "template": "car_facial",
+  "index": 53,
+  "cars2_name": "LipUpperCenter",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 137,
+  "template": "car_facial",
+  "index": 54,
+  "cars2_name": "LipUpperCornerLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 138,
+  "template": "car_facial",
+  "index": 55,
+  "cars2_name": "LipUpperCornerRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 139,
+  "template": "car_facial",
+  "index": 56,
+  "cars2_name": "LipUpperMidLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 140,
+  "template": "car_facial",
+  "index": 57,
+  "cars2_name": "LipUpperMidRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 147,
+  "template": "car_body",
+  "index": 31,
+  "cars2_name": "Main_Baxle",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 163,
+  "template": "car_body",
+  "index": 32,
+  "cars2_name": "Main",
+  "evidence": "verified-empirical"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 164,
+  "template": "car_body",
+  "index": 33,
+  "cars2_name": "MainOrient",
+  "evidence": "rule"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 165,
+  "template": "car_facial",
+  "index": 58,
+  "cars2_name": "Mouth_Ctrl/Mth_Corner_L",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 166,
+  "template": "car_facial",
+  "index": 59,
+  "cars2_name": "Mouth_Ctrl/Mth_Corner_R",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 167,
+  "template": "car_facial",
+  "index": 60,
+  "cars2_name": "Mouth_Ctrl/Mth_Expand_L",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 168,
+  "template": "car_facial",
+  "index": 61,
+  "cars2_name": "Mouth_Ctrl/Mth_Expand_R",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 169,
+  "template": "car_facial",
+  "index": 62,
+  "cars2_name": "Mouth_Ctrl/Mth_Offset",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 195,
+  "template": "car_body",
+  "index": 34,
+  "cars2_name": "TCable_Pulley",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 196,
+  "template": "car_facial",
+  "index": 63,
+  "cars2_name": "TeethLower",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 197,
+  "template": "car_facial",
+  "index": 64,
+  "cars2_name": "TeethUpper",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 199,
+  "template": "car_body",
+  "index": 15,
+  "cars2_name": "FrontTires",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 199,
+  "template": "car_body",
+  "index": 1,
+  "cars2_name": "BackTires",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 200,
+  "template": "car_facial",
+  "index": 65,
+  "cars2_name": "Tongue1",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 201,
+  "template": "car_facial",
+  "index": 66,
+  "cars2_name": "Tongue2",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 202,
+  "template": "car_facial",
+  "index": 67,
+  "cars2_name": "TongueRoot",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 203,
+  "template": "car_body",
+  "index": 35,
+  "cars2_name": "TowCrane",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "game",
+  "cars3_port": 204,
+  "template": "car_body",
+  "index": 36,
+  "cars2_name": "TowCraneBase",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 1,
+  "template": "car_frontend_frontend",
+  "index": 0,
+  "cars2_name": "BackEnd",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 2,
+  "template": "car_frontend_frontend",
+  "index": 1,
+  "cars2_name": "BackTires",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 12,
+  "template": "car_frontend_frontend",
+  "index": 2,
+  "cars2_name": "BLeft_bttm",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 14,
+  "template": "car_frontend_frontend",
+  "index": 3,
+  "cars2_name": "BLeft_Center",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 16,
+  "template": "car_frontend_frontend",
+  "index": 4,
+  "cars2_name": "Body2",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 17,
+  "template": "car_frontend_frontend",
+  "index": 5,
+  "cars2_name": "Body3",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 18,
+  "template": "car_frontend_frontend",
+  "index": 6,
+  "cars2_name": "Body_Baxle",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 20,
+  "template": "car_frontend_frontend",
+  "index": 7,
+  "cars2_name": "Body",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 22,
+  "template": "car_frontend_frontend",
+  "index": 8,
+  "cars2_name": "BRight_bttm",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 24,
+  "template": "car_frontend_frontend",
+  "index": 9,
+  "cars2_name": "BRight_Center",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 25,
+  "template": "car_frontend_frontend",
+  "index": 10,
+  "cars2_name": "BrowCenter",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 26,
+  "template": "car_frontend_frontend",
+  "index": 11,
+  "cars2_name": "BrowCornerLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 27,
+  "template": "car_frontend_frontend",
+  "index": 12,
+  "cars2_name": "BrowCornerRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 28,
+  "template": "car_frontend_frontend",
+  "index": 13,
+  "cars2_name": "BrowMidLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 29,
+  "template": "car_frontend_frontend",
+  "index": 14,
+  "cars2_name": "BrowMidRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 30,
+  "template": "car_frontend_frontend",
+  "index": 15,
+  "cars2_name": "CheekLowerLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 31,
+  "template": "car_frontend_frontend",
+  "index": 16,
+  "cars2_name": "CheekLowerRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 32,
+  "template": "car_frontend_frontend",
+  "index": 17,
+  "cars2_name": "CheekUpperLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 33,
+  "template": "car_frontend_frontend",
+  "index": 18,
+  "cars2_name": "CheekUpperRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 49,
+  "template": "car_frontend_frontend",
+  "index": 30,
+  "cars2_name": "Eyes_Ctrl/BTM_CNTR_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 50,
+  "template": "car_frontend_frontend",
+  "index": 31,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Bow",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 51,
+  "template": "car_frontend_frontend",
+  "index": 32,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Bow_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 52,
+  "template": "car_frontend_frontend",
+  "index": 33,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Bow_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 53,
+  "template": "car_frontend_frontend",
+  "index": 34,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Edge",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 54,
+  "template": "car_frontend_frontend",
+  "index": 35,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Edge_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 55,
+  "template": "car_frontend_frontend",
+  "index": 36,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 56,
+  "template": "car_frontend_frontend",
+  "index": 37,
+  "cars2_name": "Eyes_Ctrl/BTM_L_Notch_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 57,
+  "template": "car_frontend_frontend",
+  "index": 38,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Bow",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 58,
+  "template": "car_frontend_frontend",
+  "index": 39,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Bow_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 59,
+  "template": "car_frontend_frontend",
+  "index": 40,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Bow_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 60,
+  "template": "car_frontend_frontend",
+  "index": 41,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Edge",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 61,
+  "template": "car_frontend_frontend",
+  "index": 42,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Edge_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 62,
+  "template": "car_frontend_frontend",
+  "index": 43,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 63,
+  "template": "car_frontend_frontend",
+  "index": 44,
+  "cars2_name": "Eyes_Ctrl/BTM_R_Notch_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 64,
+  "template": "car_frontend_frontend",
+  "index": 45,
+  "cars2_name": "Eyes_Ctrl/EyeLeft",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 65,
+  "template": "car_frontend_frontend",
+  "index": 46,
+  "cars2_name": "Eyes_Ctrl/EyeLeftVertical",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 66,
+  "template": "car_frontend_frontend",
+  "index": 47,
+  "cars2_name": "Eyes_Ctrl/EyeRight",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 67,
+  "template": "car_frontend_frontend",
+  "index": 50,
+  "cars2_name": "Eyes_Ctrl/TOP_CNTR_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 68,
+  "template": "car_frontend_frontend",
+  "index": 51,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Bow",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 69,
+  "template": "car_frontend_frontend",
+  "index": 52,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Bow_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 70,
+  "template": "car_frontend_frontend",
+  "index": 53,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Bow_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 71,
+  "template": "car_frontend_frontend",
+  "index": 54,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Edge",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 72,
+  "template": "car_frontend_frontend",
+  "index": 55,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Edge_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 73,
+  "template": "car_frontend_frontend",
+  "index": 56,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 74,
+  "template": "car_frontend_frontend",
+  "index": 57,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Notch_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 75,
+  "template": "car_frontend_frontend",
+  "index": 58,
+  "cars2_name": "Eyes_Ctrl/TOP_L_Notch_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 76,
+  "template": "car_frontend_frontend",
+  "index": 59,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Bow",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 77,
+  "template": "car_frontend_frontend",
+  "index": 60,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Bow_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 78,
+  "template": "car_frontend_frontend",
+  "index": 61,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Bow_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 79,
+  "template": "car_frontend_frontend",
+  "index": 62,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Edge",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 80,
+  "template": "car_frontend_frontend",
+  "index": 63,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Edge_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 81,
+  "template": "car_frontend_frontend",
+  "index": 64,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Notch",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 82,
+  "template": "car_frontend_frontend",
+  "index": 65,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Notch_Angle",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 83,
+  "template": "car_frontend_frontend",
+  "index": 66,
+  "cars2_name": "Eyes_Ctrl/TOP_R_Notch_InOut",
+  "evidence": "verified-order"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 84,
+  "template": "car_frontend_frontend",
+  "index": 67,
+  "cars2_name": "Eyes",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 86,
+  "template": "car_frontend_frontend",
+  "index": 68,
+  "cars2_name": "FLeft_bttm",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 88,
+  "template": "car_frontend_frontend",
+  "index": 69,
+  "cars2_name": "FLeft_Center",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 92,
+  "template": "car_frontend_frontend",
+  "index": 70,
+  "cars2_name": "FRight_bttm",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 94,
+  "template": "car_frontend_frontend",
+  "index": 71,
+  "cars2_name": "FRight_Center",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 95,
+  "template": "car_frontend_frontend",
+  "index": 72,
+  "cars2_name": "FrontEnd",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 96,
+  "template": "car_frontend_frontend",
+  "index": 73,
+  "cars2_name": "FrontTires",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 129,
+  "template": "car_frontend_frontend",
+  "index": 74,
+  "cars2_name": "Jaw",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 131,
+  "template": "car_frontend_frontend",
+  "index": 75,
+  "cars2_name": "LipLowerCenter",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 132,
+  "template": "car_frontend_frontend",
+  "index": 76,
+  "cars2_name": "LipLowerCornerLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 133,
+  "template": "car_frontend_frontend",
+  "index": 77,
+  "cars2_name": "LipLowerCornerRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 134,
+  "template": "car_frontend_frontend",
+  "index": 78,
+  "cars2_name": "LipLowerMidLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 135,
+  "template": "car_frontend_frontend",
+  "index": 79,
+  "cars2_name": "LipLowerMidRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 136,
+  "template": "car_frontend_frontend",
+  "index": 80,
+  "cars2_name": "LipUpperCenter",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 137,
+  "template": "car_frontend_frontend",
+  "index": 81,
+  "cars2_name": "LipUpperCornerLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 138,
+  "template": "car_frontend_frontend",
+  "index": 82,
+  "cars2_name": "LipUpperCornerRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 139,
+  "template": "car_frontend_frontend",
+  "index": 83,
+  "cars2_name": "LipUpperMidLeft",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 140,
+  "template": "car_frontend_frontend",
+  "index": 84,
+  "cars2_name": "LipUpperMidRight",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 147,
+  "template": "car_frontend_frontend",
+  "index": 85,
+  "cars2_name": "Main_Baxle",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 163,
+  "template": "car_frontend_frontend",
+  "index": 88,
+  "cars2_name": "Main",
+  "evidence": "verified-empirical"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 164,
+  "template": "car_frontend_frontend",
+  "index": 90,
+  "cars2_name": "MainOrient",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 165,
+  "template": "car_frontend_frontend",
+  "index": 91,
+  "cars2_name": "Mouth_Ctrl/Mth_Corner_L",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 166,
+  "template": "car_frontend_frontend",
+  "index": 92,
+  "cars2_name": "Mouth_Ctrl/Mth_Corner_R",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 167,
+  "template": "car_frontend_frontend",
+  "index": 93,
+  "cars2_name": "Mouth_Ctrl/Mth_Expand_L",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 168,
+  "template": "car_frontend_frontend",
+  "index": 94,
+  "cars2_name": "Mouth_Ctrl/Mth_Expand_R",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 169,
+  "template": "car_frontend_frontend",
+  "index": 96,
+  "cars2_name": "Mouth_Ctrl/Mth_Offset",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 171,
+  "template": "car_frontend_frontend",
+  "index": 97,
+  "cars2_name": "Mouth_Ctrl/vsm_AA",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 180,
+  "template": "car_frontend_frontend",
+  "index": 98,
+  "cars2_name": "Mouth_Ctrl/vsm_IH",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 182,
+  "template": "car_frontend_frontend",
+  "index": 99,
+  "cars2_name": "Mouth_Ctrl/vsm_M",
+  "evidence": "rule"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 195,
+  "template": "car_frontend_frontend",
+  "index": 102,
+  "cars2_name": "TCable_Pulley",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 196,
+  "template": "car_frontend_frontend",
+  "index": 103,
+  "cars2_name": "TeethLower",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 197,
+  "template": "car_frontend_frontend",
+  "index": 104,
+  "cars2_name": "TeethUpper",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 199,
+  "template": "car_frontend_frontend",
+  "index": 73,
+  "cars2_name": "FrontTires",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 199,
+  "template": "car_frontend_frontend",
+  "index": 1,
+  "cars2_name": "BackTires",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 200,
+  "template": "car_frontend_frontend",
+  "index": 105,
+  "cars2_name": "Tongue1",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 201,
+  "template": "car_frontend_frontend",
+  "index": 106,
+  "cars2_name": "Tongue2",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 202,
+  "template": "car_frontend_frontend",
+  "index": 107,
+  "cars2_name": "TongueRoot",
+  "evidence": "verified-graph"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 203,
+  "template": "car_frontend_frontend",
+  "index": 108,
+  "cars2_name": "TowCrane",
+  "evidence": "verified-curve"
+ },
+ {
+  "mode": "frontend",
+  "cars3_port": 204,
+  "template": "car_frontend_frontend",
+  "index": 109,
+  "cars2_name": "TowCraneBase",
+  "evidence": "verified-curve"
+ }
+]
